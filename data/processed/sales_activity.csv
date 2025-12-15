@@ -1,0 +1,800 @@
+activity_id,prescriber_id,sales_rep,activity_date,activity_type,outcome
+1,67,Rep D,2025-07-15,Email,No Response
+2,19,Rep A,2025-08-22,Call,Interested
+3,76,Rep A,2025-08-01,Visit,No Response
+4,54,Rep A,2025-07-25,Call,No Response
+5,69,Rep A,2025-07-09,Email,Interested
+6,10,Rep D,2025-07-23,Call,Follow-up
+7,33,Rep C,2025-08-02,Visit,Follow-up
+8,13,Rep C,2025-09-06,Call,Follow-up
+9,51,Rep A,2025-11-19,Call,Follow-up
+10,32,Rep B,2025-11-14,Email,Interested
+11,75,Rep D,2025-07-28,Email,No Response
+12,24,Rep C,2025-08-14,Call,Interested
+13,35,Rep A,2025-06-25,Call,Follow-up
+14,70,Rep B,2025-10-25,Call,Follow-up
+15,40,Rep B,2025-06-17,Email,Interested
+16,54,Rep A,2025-09-30,Email,No Response
+17,44,Rep D,2025-10-07,Call,Interested
+18,62,Rep C,2025-06-30,Email,Interested
+19,68,Rep B,2025-09-06,Visit,Interested
+20,33,Rep C,2025-12-01,Email,No Response
+21,77,Rep C,2025-11-12,Email,Interested
+22,56,Rep B,2025-07-30,Email,Interested
+23,36,Rep A,2025-07-12,Visit,Follow-up
+24,54,Rep B,2025-07-31,Visit,Interested
+25,19,Rep B,2025-06-27,Visit,Follow-up
+26,43,Rep D,2025-09-04,Call,Follow-up
+27,12,Rep C,2025-10-06,Call,Follow-up
+28,11,Rep A,2025-07-14,Visit,No Response
+29,70,Rep C,2025-11-19,Call,Follow-up
+30,12,Rep B,2025-08-25,Call,Interested
+31,41,Rep A,2025-09-22,Call,Interested
+32,25,Rep A,2025-08-05,Visit,Follow-up
+33,3,Rep A,2025-06-27,Email,Follow-up
+34,3,Rep A,2025-10-15,Visit,Interested
+35,28,Rep D,2025-09-12,Visit,Follow-up
+36,23,Rep A,2025-06-18,Call,No Response
+37,48,Rep B,2025-08-12,Call,Follow-up
+38,67,Rep D,2025-08-18,Email,No Response
+39,42,Rep B,2025-11-28,Email,No Response
+40,40,Rep B,2025-07-05,Email,No Response
+41,6,Rep C,2025-10-02,Email,Follow-up
+42,20,Rep A,2025-07-29,Visit,No Response
+43,11,Rep A,2025-12-10,Email,No Response
+44,27,Rep B,2025-10-03,Visit,Follow-up
+45,21,Rep A,2025-07-21,Call,No Response
+46,13,Rep D,2025-09-24,Email,Follow-up
+47,35,Rep C,2025-11-07,Call,Interested
+48,47,Rep A,2025-10-27,Call,No Response
+49,28,Rep A,2025-08-03,Visit,Follow-up
+50,21,Rep D,2025-08-06,Email,Interested
+51,18,Rep C,2025-10-09,Visit,No Response
+52,31,Rep D,2025-08-09,Call,No Response
+53,60,Rep B,2025-10-16,Email,Follow-up
+54,37,Rep B,2025-09-23,Call,Interested
+55,21,Rep A,2025-07-28,Call,Follow-up
+56,14,Rep C,2025-08-22,Email,No Response
+57,60,Rep B,2025-08-12,Email,No Response
+58,23,Rep D,2025-10-31,Email,No Response
+59,29,Rep B,2025-08-06,Visit,No Response
+60,47,Rep B,2025-12-05,Visit,Interested
+61,30,Rep D,2025-08-14,Call,Interested
+62,38,Rep A,2025-09-27,Email,Follow-up
+63,27,Rep C,2025-08-15,Call,Follow-up
+64,15,Rep A,2025-06-18,Call,Follow-up
+65,59,Rep D,2025-07-22,Call,No Response
+66,3,Rep B,2025-12-05,Call,Follow-up
+67,10,Rep C,2025-10-01,Call,Interested
+68,79,Rep A,2025-12-01,Email,Follow-up
+69,80,Rep D,2025-10-23,Visit,Follow-up
+70,17,Rep B,2025-12-02,Email,Interested
+71,11,Rep B,2025-09-11,Email,Interested
+72,48,Rep A,2025-10-20,Email,No Response
+73,5,Rep D,2025-10-13,Visit,Interested
+74,69,Rep B,2025-07-21,Visit,Interested
+75,64,Rep B,2025-11-13,Visit,Follow-up
+76,14,Rep C,2025-08-08,Email,Interested
+77,50,Rep B,2025-07-18,Visit,No Response
+78,26,Rep A,2025-08-30,Call,Follow-up
+79,72,Rep D,2025-09-16,Visit,No Response
+80,69,Rep D,2025-08-21,Email,Interested
+81,7,Rep C,2025-12-04,Email,No Response
+82,16,Rep D,2025-07-31,Call,No Response
+83,55,Rep A,2025-08-08,Visit,Interested
+84,78,Rep B,2025-07-02,Visit,Interested
+85,56,Rep C,2025-10-05,Call,Follow-up
+86,4,Rep D,2025-09-10,Email,Follow-up
+87,48,Rep C,2025-07-22,Email,Follow-up
+88,17,Rep C,2025-09-22,Visit,Interested
+89,36,Rep D,2025-09-29,Visit,No Response
+90,70,Rep C,2025-11-03,Visit,No Response
+91,80,Rep D,2025-07-02,Visit,Follow-up
+92,38,Rep A,2025-10-20,Visit,Follow-up
+93,62,Rep D,2025-10-16,Email,Interested
+94,48,Rep B,2025-09-03,Email,No Response
+95,10,Rep D,2025-06-14,Email,Follow-up
+96,36,Rep B,2025-10-10,Email,Interested
+97,29,Rep C,2025-06-16,Call,Follow-up
+98,78,Rep D,2025-10-14,Email,Interested
+99,4,Rep B,2025-09-26,Call,No Response
+100,44,Rep D,2025-12-12,Email,Interested
+101,56,Rep D,2025-08-26,Visit,Follow-up
+102,42,Rep D,2025-09-09,Visit,Follow-up
+103,13,Rep A,2025-06-21,Visit,No Response
+104,46,Rep B,2025-07-19,Call,No Response
+105,33,Rep A,2025-06-14,Email,Follow-up
+106,21,Rep A,2025-09-13,Email,Follow-up
+107,80,Rep B,2025-08-25,Call,Follow-up
+108,79,Rep D,2025-07-04,Call,No Response
+109,57,Rep A,2025-12-07,Call,Follow-up
+110,69,Rep A,2025-06-25,Call,No Response
+111,70,Rep A,2025-09-09,Call,Follow-up
+112,67,Rep D,2025-08-06,Visit,Interested
+113,48,Rep A,2025-12-06,Email,Interested
+114,76,Rep C,2025-07-14,Call,Follow-up
+115,33,Rep B,2025-10-26,Visit,Interested
+116,36,Rep C,2025-11-17,Call,No Response
+117,33,Rep D,2025-10-18,Visit,Interested
+118,31,Rep A,2025-10-10,Call,Interested
+119,21,Rep B,2025-11-17,Email,No Response
+120,27,Rep A,2025-06-24,Call,Interested
+121,72,Rep D,2025-07-24,Call,Interested
+122,62,Rep B,2025-09-08,Email,Follow-up
+123,26,Rep C,2025-12-08,Email,No Response
+124,66,Rep B,2025-09-27,Call,No Response
+125,12,Rep A,2025-08-23,Email,Follow-up
+126,22,Rep B,2025-10-13,Email,Follow-up
+127,17,Rep D,2025-12-03,Visit,Interested
+128,7,Rep D,2025-09-08,Email,Interested
+129,68,Rep B,2025-10-02,Email,Interested
+130,37,Rep D,2025-07-17,Call,Follow-up
+131,38,Rep D,2025-10-16,Call,No Response
+132,11,Rep D,2025-06-20,Visit,Interested
+133,1,Rep C,2025-12-04,Call,Follow-up
+134,25,Rep A,2025-07-24,Email,No Response
+135,42,Rep D,2025-10-30,Email,Follow-up
+136,52,Rep B,2025-08-16,Email,Interested
+137,24,Rep D,2025-06-23,Call,Follow-up
+138,53,Rep C,2025-09-04,Email,Follow-up
+139,56,Rep B,2025-10-30,Email,Follow-up
+140,63,Rep A,2025-06-30,Visit,Follow-up
+141,8,Rep B,2025-11-06,Visit,No Response
+142,59,Rep B,2025-10-17,Visit,Interested
+143,45,Rep B,2025-08-01,Call,No Response
+144,27,Rep B,2025-09-25,Email,Follow-up
+145,52,Rep D,2025-10-04,Email,Follow-up
+146,18,Rep A,2025-07-18,Email,Interested
+147,16,Rep D,2025-09-13,Visit,Interested
+148,66,Rep C,2025-07-01,Email,No Response
+149,5,Rep C,2025-09-27,Email,No Response
+150,3,Rep B,2025-07-10,Email,Interested
+151,80,Rep D,2025-11-17,Email,No Response
+152,70,Rep D,2025-07-01,Email,Follow-up
+153,7,Rep A,2025-11-26,Call,Follow-up
+154,50,Rep A,2025-08-10,Email,Interested
+155,14,Rep A,2025-09-23,Call,No Response
+156,38,Rep D,2025-08-05,Email,Follow-up
+157,79,Rep A,2025-07-06,Call,Interested
+158,47,Rep A,2025-07-31,Email,No Response
+159,33,Rep A,2025-07-30,Email,Follow-up
+160,43,Rep B,2025-12-04,Email,No Response
+161,29,Rep C,2025-08-17,Email,No Response
+162,57,Rep C,2025-08-15,Visit,No Response
+163,5,Rep D,2025-07-29,Email,Interested
+164,60,Rep D,2025-11-12,Call,Follow-up
+165,70,Rep B,2025-10-17,Visit,Interested
+166,2,Rep C,2025-12-08,Visit,Follow-up
+167,70,Rep A,2025-11-01,Email,Follow-up
+168,43,Rep A,2025-10-12,Call,Interested
+169,4,Rep D,2025-11-17,Call,Interested
+170,56,Rep C,2025-09-03,Visit,Follow-up
+171,59,Rep D,2025-12-07,Call,Follow-up
+172,9,Rep D,2025-11-09,Email,Follow-up
+173,3,Rep A,2025-07-09,Email,No Response
+174,48,Rep A,2025-07-01,Email,Follow-up
+175,43,Rep C,2025-09-17,Email,Interested
+176,1,Rep D,2025-10-09,Email,Interested
+177,57,Rep B,2025-08-16,Visit,Interested
+178,53,Rep C,2025-10-14,Email,Follow-up
+179,16,Rep D,2025-10-26,Email,Follow-up
+180,51,Rep C,2025-10-18,Visit,No Response
+181,75,Rep C,2025-11-13,Visit,No Response
+182,55,Rep C,2025-11-02,Visit,Interested
+183,1,Rep B,2025-06-15,Call,No Response
+184,28,Rep B,2025-06-16,Call,No Response
+185,53,Rep A,2025-09-12,Email,Interested
+186,58,Rep A,2025-08-29,Email,Follow-up
+187,73,Rep D,2025-07-26,Email,No Response
+188,60,Rep C,2025-11-03,Call,Follow-up
+189,59,Rep D,2025-11-01,Email,Interested
+190,22,Rep A,2025-07-19,Email,Interested
+191,8,Rep B,2025-08-13,Call,No Response
+192,49,Rep A,2025-09-16,Visit,Interested
+193,42,Rep D,2025-09-30,Call,Interested
+194,27,Rep A,2025-11-05,Email,Interested
+195,39,Rep D,2025-10-26,Call,No Response
+196,25,Rep D,2025-12-10,Visit,No Response
+197,38,Rep D,2025-08-05,Visit,No Response
+198,24,Rep D,2025-09-17,Visit,Interested
+199,24,Rep A,2025-09-19,Visit,Follow-up
+200,60,Rep D,2025-08-08,Visit,Interested
+201,50,Rep D,2025-10-29,Visit,No Response
+202,66,Rep C,2025-12-05,Email,Follow-up
+203,14,Rep D,2025-10-12,Email,Follow-up
+204,53,Rep A,2025-08-03,Call,No Response
+205,32,Rep D,2025-06-20,Email,Follow-up
+206,48,Rep B,2025-11-18,Visit,Follow-up
+207,39,Rep B,2025-12-12,Email,No Response
+208,40,Rep D,2025-09-22,Call,Follow-up
+209,42,Rep B,2025-11-12,Visit,Follow-up
+210,77,Rep B,2025-10-03,Email,No Response
+211,76,Rep A,2025-08-10,Email,Follow-up
+212,8,Rep C,2025-06-26,Call,Follow-up
+213,79,Rep B,2025-09-04,Visit,Follow-up
+214,26,Rep B,2025-07-22,Call,Follow-up
+215,12,Rep C,2025-09-12,Visit,No Response
+216,43,Rep C,2025-07-09,Visit,Interested
+217,51,Rep B,2025-11-14,Email,Interested
+218,63,Rep D,2025-08-09,Call,Follow-up
+219,49,Rep B,2025-08-30,Call,No Response
+220,27,Rep D,2025-09-13,Call,No Response
+221,9,Rep D,2025-09-19,Visit,Follow-up
+222,39,Rep D,2025-10-30,Call,Interested
+223,65,Rep C,2025-08-18,Visit,Follow-up
+224,71,Rep B,2025-07-01,Call,No Response
+225,71,Rep B,2025-11-05,Call,No Response
+226,7,Rep A,2025-09-27,Email,Interested
+227,72,Rep C,2025-08-14,Call,No Response
+228,80,Rep A,2025-11-25,Email,No Response
+229,67,Rep A,2025-10-30,Email,No Response
+230,10,Rep D,2025-08-06,Visit,Interested
+231,71,Rep C,2025-09-13,Call,No Response
+232,53,Rep A,2025-06-24,Call,Follow-up
+233,57,Rep B,2025-08-24,Call,Interested
+234,27,Rep A,2025-11-15,Email,Follow-up
+235,54,Rep C,2025-07-07,Call,Follow-up
+236,4,Rep B,2025-09-24,Visit,Interested
+237,23,Rep B,2025-10-01,Visit,Follow-up
+238,48,Rep B,2025-08-05,Call,Interested
+239,42,Rep D,2025-08-24,Email,Follow-up
+240,3,Rep B,2025-06-18,Visit,Interested
+241,3,Rep D,2025-07-13,Visit,No Response
+242,28,Rep D,2025-11-01,Email,No Response
+243,63,Rep A,2025-10-17,Visit,Follow-up
+244,31,Rep A,2025-09-26,Email,No Response
+245,10,Rep B,2025-07-18,Visit,Interested
+246,49,Rep C,2025-07-27,Email,Follow-up
+247,21,Rep B,2025-07-18,Visit,No Response
+248,53,Rep A,2025-08-06,Call,No Response
+249,76,Rep B,2025-10-10,Visit,Follow-up
+250,54,Rep A,2025-08-15,Visit,No Response
+251,57,Rep B,2025-07-22,Call,No Response
+252,20,Rep C,2025-08-02,Call,Follow-up
+253,49,Rep B,2025-10-31,Call,No Response
+254,7,Rep C,2025-08-19,Call,No Response
+255,29,Rep C,2025-07-16,Email,No Response
+256,48,Rep B,2025-10-22,Email,No Response
+257,13,Rep C,2025-09-03,Visit,Follow-up
+258,3,Rep C,2025-08-11,Visit,Interested
+259,2,Rep A,2025-11-22,Visit,Interested
+260,16,Rep A,2025-08-05,Email,No Response
+261,6,Rep C,2025-09-02,Visit,No Response
+262,45,Rep D,2025-08-04,Visit,Interested
+263,71,Rep B,2025-09-20,Email,No Response
+264,5,Rep C,2025-08-21,Visit,Interested
+265,56,Rep B,2025-06-15,Email,Follow-up
+266,71,Rep A,2025-11-20,Email,Follow-up
+267,32,Rep B,2025-07-29,Call,Follow-up
+268,49,Rep C,2025-09-30,Call,Follow-up
+269,13,Rep C,2025-08-23,Email,Follow-up
+270,30,Rep C,2025-11-23,Email,Follow-up
+271,25,Rep C,2025-07-29,Call,Interested
+272,60,Rep D,2025-07-20,Visit,No Response
+273,59,Rep D,2025-07-23,Visit,Interested
+274,28,Rep D,2025-07-08,Visit,Follow-up
+275,58,Rep C,2025-09-22,Email,No Response
+276,20,Rep D,2025-09-21,Call,No Response
+277,34,Rep B,2025-11-26,Visit,Follow-up
+278,5,Rep C,2025-11-01,Call,Follow-up
+279,60,Rep A,2025-10-31,Call,Follow-up
+280,43,Rep C,2025-09-20,Email,Follow-up
+281,57,Rep B,2025-12-07,Visit,Follow-up
+282,57,Rep D,2025-07-02,Call,Follow-up
+283,75,Rep C,2025-09-22,Email,No Response
+284,54,Rep D,2025-09-16,Email,Follow-up
+285,45,Rep C,2025-08-06,Email,Follow-up
+286,37,Rep B,2025-07-28,Visit,No Response
+287,48,Rep C,2025-10-16,Visit,Interested
+288,54,Rep D,2025-07-13,Email,Follow-up
+289,48,Rep D,2025-06-27,Visit,No Response
+290,6,Rep B,2025-10-03,Visit,No Response
+291,34,Rep C,2025-09-07,Call,Interested
+292,63,Rep A,2025-06-29,Email,Follow-up
+293,78,Rep C,2025-09-07,Email,Follow-up
+294,48,Rep B,2025-09-01,Visit,Follow-up
+295,23,Rep A,2025-07-14,Email,No Response
+296,13,Rep B,2025-07-26,Email,Follow-up
+297,47,Rep C,2025-09-12,Email,Follow-up
+298,44,Rep A,2025-09-06,Visit,Follow-up
+299,32,Rep B,2025-10-25,Visit,Follow-up
+300,26,Rep D,2025-09-05,Visit,Interested
+301,53,Rep A,2025-10-10,Call,Interested
+302,14,Rep A,2025-10-03,Email,Interested
+303,52,Rep B,2025-10-27,Call,Follow-up
+304,36,Rep D,2025-09-13,Visit,Follow-up
+305,8,Rep A,2025-08-11,Call,No Response
+306,40,Rep B,2025-08-24,Email,No Response
+307,22,Rep A,2025-08-20,Email,No Response
+308,16,Rep A,2025-09-28,Visit,Follow-up
+309,60,Rep A,2025-11-06,Visit,Interested
+310,60,Rep D,2025-11-27,Call,Interested
+311,10,Rep C,2025-11-08,Visit,Interested
+312,25,Rep C,2025-11-30,Call,Follow-up
+313,31,Rep D,2025-07-03,Email,Interested
+314,21,Rep D,2025-11-27,Email,No Response
+315,33,Rep B,2025-06-28,Email,No Response
+316,31,Rep A,2025-11-16,Email,Interested
+317,21,Rep D,2025-08-30,Email,No Response
+318,36,Rep B,2025-08-18,Call,Interested
+319,65,Rep C,2025-08-21,Email,Interested
+320,4,Rep C,2025-07-26,Call,No Response
+321,68,Rep C,2025-12-11,Email,No Response
+322,4,Rep C,2025-09-05,Call,No Response
+323,9,Rep B,2025-11-12,Call,No Response
+324,30,Rep A,2025-11-01,Call,Interested
+325,45,Rep B,2025-11-13,Visit,No Response
+326,4,Rep A,2025-09-06,Call,No Response
+327,69,Rep C,2025-11-12,Call,Follow-up
+328,23,Rep D,2025-08-23,Email,No Response
+329,16,Rep D,2025-07-13,Call,No Response
+330,22,Rep D,2025-10-16,Call,Interested
+331,72,Rep A,2025-08-08,Visit,Interested
+332,48,Rep C,2025-10-14,Email,Follow-up
+333,62,Rep B,2025-08-05,Visit,No Response
+334,60,Rep D,2025-06-29,Visit,No Response
+335,80,Rep A,2025-10-16,Visit,No Response
+336,5,Rep D,2025-12-13,Call,No Response
+337,80,Rep B,2025-08-11,Visit,No Response
+338,7,Rep C,2025-11-28,Visit,No Response
+339,51,Rep B,2025-09-03,Email,Follow-up
+340,65,Rep C,2025-08-12,Email,No Response
+341,9,Rep C,2025-07-02,Email,No Response
+342,45,Rep C,2025-09-03,Email,No Response
+343,47,Rep D,2025-08-16,Visit,Follow-up
+344,67,Rep B,2025-08-03,Email,No Response
+345,24,Rep D,2025-07-31,Call,Follow-up
+346,10,Rep B,2025-11-17,Visit,Interested
+347,73,Rep A,2025-09-18,Email,No Response
+348,77,Rep A,2025-11-18,Visit,Follow-up
+349,48,Rep B,2025-09-16,Email,Interested
+350,35,Rep B,2025-10-22,Visit,Follow-up
+351,54,Rep B,2025-07-22,Email,Follow-up
+352,71,Rep B,2025-10-21,Call,Interested
+353,16,Rep C,2025-11-01,Email,No Response
+354,53,Rep D,2025-11-07,Visit,No Response
+355,40,Rep C,2025-08-22,Visit,Follow-up
+356,20,Rep D,2025-08-14,Call,Interested
+357,69,Rep D,2025-10-11,Visit,No Response
+358,45,Rep D,2025-07-19,Call,Follow-up
+359,6,Rep C,2025-06-22,Visit,Interested
+360,69,Rep B,2025-09-25,Visit,Follow-up
+361,49,Rep C,2025-06-16,Call,Interested
+362,39,Rep C,2025-11-21,Visit,No Response
+363,2,Rep D,2025-06-25,Visit,No Response
+364,39,Rep A,2025-08-01,Call,Follow-up
+365,21,Rep A,2025-11-27,Email,No Response
+366,40,Rep C,2025-09-02,Call,No Response
+367,54,Rep D,2025-06-26,Visit,Interested
+368,12,Rep C,2025-06-26,Email,No Response
+369,37,Rep C,2025-09-26,Email,Interested
+370,38,Rep B,2025-08-03,Email,Interested
+371,15,Rep D,2025-08-01,Call,Follow-up
+372,7,Rep A,2025-09-13,Email,Interested
+373,78,Rep A,2025-07-17,Email,No Response
+374,50,Rep A,2025-07-30,Email,Interested
+375,65,Rep C,2025-12-06,Visit,Interested
+376,67,Rep D,2025-11-01,Call,Follow-up
+377,44,Rep B,2025-10-24,Call,No Response
+378,31,Rep A,2025-09-10,Visit,No Response
+379,43,Rep D,2025-12-01,Email,No Response
+380,77,Rep A,2025-07-25,Visit,Interested
+381,48,Rep B,2025-12-13,Visit,No Response
+382,61,Rep D,2025-11-11,Email,No Response
+383,75,Rep C,2025-11-06,Email,Interested
+384,10,Rep C,2025-07-19,Call,Follow-up
+385,29,Rep A,2025-08-04,Email,Follow-up
+386,48,Rep A,2025-11-25,Visit,Interested
+387,62,Rep D,2025-07-01,Visit,Follow-up
+388,13,Rep B,2025-10-05,Email,Follow-up
+389,44,Rep A,2025-07-21,Call,Follow-up
+390,47,Rep D,2025-07-13,Visit,No Response
+391,64,Rep B,2025-12-10,Email,Follow-up
+392,53,Rep A,2025-07-30,Call,No Response
+393,77,Rep A,2025-06-23,Call,Follow-up
+394,76,Rep D,2025-08-23,Visit,No Response
+395,44,Rep A,2025-07-07,Visit,Interested
+396,28,Rep C,2025-10-11,Call,Interested
+397,2,Rep B,2025-08-12,Call,Follow-up
+398,57,Rep B,2025-09-10,Call,No Response
+399,57,Rep C,2025-11-06,Email,Interested
+400,34,Rep D,2025-10-20,Visit,Interested
+401,58,Rep C,2025-07-11,Call,Interested
+402,52,Rep C,2025-10-11,Visit,Interested
+403,29,Rep B,2025-08-31,Visit,Follow-up
+404,35,Rep D,2025-07-27,Visit,No Response
+405,75,Rep A,2025-08-31,Call,Interested
+406,48,Rep C,2025-11-11,Email,Follow-up
+407,33,Rep C,2025-07-04,Call,Interested
+408,75,Rep D,2025-07-14,Visit,Interested
+409,73,Rep C,2025-07-11,Call,Interested
+410,78,Rep D,2025-12-11,Call,Interested
+411,9,Rep A,2025-11-24,Visit,Follow-up
+412,48,Rep D,2025-09-09,Visit,No Response
+413,67,Rep A,2025-07-26,Call,Follow-up
+414,36,Rep D,2025-10-17,Call,Follow-up
+415,71,Rep C,2025-11-08,Call,Follow-up
+416,44,Rep A,2025-06-28,Call,Interested
+417,60,Rep C,2025-10-07,Email,No Response
+418,63,Rep A,2025-10-11,Call,Interested
+419,5,Rep D,2025-10-21,Email,Follow-up
+420,76,Rep D,2025-09-19,Visit,Interested
+421,40,Rep D,2025-08-18,Email,No Response
+422,19,Rep B,2025-07-14,Visit,No Response
+423,47,Rep B,2025-09-03,Email,Interested
+424,65,Rep A,2025-07-24,Visit,Follow-up
+425,67,Rep B,2025-08-22,Call,Interested
+426,18,Rep D,2025-11-11,Email,Follow-up
+427,50,Rep B,2025-09-30,Email,No Response
+428,30,Rep B,2025-12-05,Visit,Interested
+429,66,Rep C,2025-10-19,Visit,No Response
+430,5,Rep A,2025-08-26,Email,Follow-up
+431,42,Rep A,2025-11-02,Visit,Follow-up
+432,5,Rep A,2025-10-06,Call,Interested
+433,50,Rep B,2025-08-03,Email,Interested
+434,58,Rep D,2025-11-13,Call,Interested
+435,79,Rep C,2025-09-13,Email,No Response
+436,8,Rep A,2025-09-29,Call,Follow-up
+437,31,Rep B,2025-09-24,Email,Follow-up
+438,12,Rep D,2025-10-02,Visit,No Response
+439,21,Rep C,2025-06-28,Email,Interested
+440,62,Rep C,2025-07-01,Call,Interested
+441,33,Rep A,2025-08-20,Email,No Response
+442,26,Rep A,2025-11-03,Call,Follow-up
+443,40,Rep D,2025-10-27,Call,Follow-up
+444,65,Rep B,2025-11-02,Call,Follow-up
+445,59,Rep D,2025-06-29,Visit,Follow-up
+446,15,Rep A,2025-10-23,Email,No Response
+447,1,Rep D,2025-08-19,Call,Follow-up
+448,11,Rep B,2025-10-24,Visit,No Response
+449,55,Rep C,2025-08-09,Call,Interested
+450,2,Rep C,2025-09-04,Email,No Response
+451,65,Rep C,2025-07-22,Visit,Follow-up
+452,44,Rep C,2025-10-07,Call,Interested
+453,16,Rep A,2025-12-03,Call,No Response
+454,22,Rep A,2025-10-21,Call,No Response
+455,18,Rep B,2025-11-23,Email,No Response
+456,47,Rep B,2025-10-23,Visit,Interested
+457,30,Rep B,2025-09-15,Visit,No Response
+458,10,Rep B,2025-12-09,Visit,Follow-up
+459,58,Rep D,2025-12-02,Call,Interested
+460,62,Rep B,2025-06-18,Visit,Interested
+461,80,Rep C,2025-11-23,Call,No Response
+462,6,Rep C,2025-11-12,Email,Follow-up
+463,67,Rep C,2025-10-05,Visit,Interested
+464,41,Rep D,2025-08-07,Call,No Response
+465,43,Rep B,2025-06-14,Visit,Follow-up
+466,77,Rep C,2025-07-01,Visit,No Response
+467,18,Rep C,2025-11-22,Email,No Response
+468,58,Rep C,2025-08-21,Visit,Interested
+469,60,Rep C,2025-08-31,Email,Interested
+470,27,Rep A,2025-11-19,Visit,No Response
+471,68,Rep B,2025-11-25,Visit,Interested
+472,22,Rep B,2025-07-27,Visit,Interested
+473,24,Rep D,2025-10-14,Visit,Follow-up
+474,40,Rep A,2025-07-18,Visit,Follow-up
+475,74,Rep D,2025-09-25,Visit,No Response
+476,66,Rep C,2025-06-17,Email,No Response
+477,40,Rep D,2025-11-19,Email,No Response
+478,6,Rep C,2025-11-17,Call,No Response
+479,18,Rep C,2025-12-03,Visit,Follow-up
+480,30,Rep B,2025-07-15,Email,Interested
+481,21,Rep B,2025-08-30,Visit,Follow-up
+482,62,Rep B,2025-08-25,Visit,No Response
+483,10,Rep B,2025-12-09,Email,No Response
+484,13,Rep B,2025-06-25,Visit,Follow-up
+485,76,Rep A,2025-11-23,Email,Follow-up
+486,9,Rep B,2025-11-04,Email,No Response
+487,68,Rep D,2025-06-21,Call,Interested
+488,39,Rep C,2025-10-02,Call,No Response
+489,24,Rep B,2025-09-24,Call,Follow-up
+490,34,Rep A,2025-06-16,Call,No Response
+491,61,Rep D,2025-07-04,Visit,No Response
+492,41,Rep D,2025-11-26,Visit,Interested
+493,5,Rep C,2025-10-05,Call,No Response
+494,79,Rep D,2025-11-13,Email,No Response
+495,50,Rep D,2025-11-02,Email,No Response
+496,4,Rep D,2025-07-12,Email,Follow-up
+497,51,Rep D,2025-06-15,Email,Follow-up
+498,52,Rep A,2025-10-11,Visit,Interested
+499,39,Rep C,2025-07-16,Email,No Response
+500,8,Rep B,2025-08-21,Email,Follow-up
+501,45,Rep D,2025-10-11,Call,Interested
+502,28,Rep A,2025-07-10,Email,No Response
+503,27,Rep C,2025-09-08,Visit,Interested
+504,65,Rep B,2025-06-21,Email,Interested
+505,34,Rep C,2025-08-30,Email,Interested
+506,62,Rep A,2025-08-18,Visit,Interested
+507,62,Rep A,2025-11-15,Call,Interested
+508,38,Rep A,2025-09-06,Visit,Interested
+509,26,Rep D,2025-06-14,Call,Interested
+510,24,Rep A,2025-06-16,Email,No Response
+511,39,Rep B,2025-09-15,Call,No Response
+512,21,Rep D,2025-08-19,Call,Interested
+513,47,Rep C,2025-07-31,Call,No Response
+514,48,Rep B,2025-08-12,Email,Interested
+515,13,Rep D,2025-06-14,Call,No Response
+516,3,Rep A,2025-11-20,Call,Follow-up
+517,32,Rep C,2025-07-09,Email,Interested
+518,35,Rep A,2025-06-17,Visit,Follow-up
+519,19,Rep B,2025-07-23,Visit,Interested
+520,14,Rep B,2025-10-26,Visit,Interested
+521,48,Rep D,2025-10-01,Email,Follow-up
+522,68,Rep B,2025-07-06,Email,Follow-up
+523,45,Rep C,2025-07-25,Visit,Follow-up
+524,19,Rep D,2025-07-02,Call,Interested
+525,64,Rep C,2025-07-21,Visit,Follow-up
+526,66,Rep A,2025-11-29,Email,Follow-up
+527,79,Rep C,2025-08-31,Call,No Response
+528,66,Rep C,2025-06-29,Call,No Response
+529,75,Rep B,2025-07-16,Email,Follow-up
+530,45,Rep A,2025-09-01,Call,Follow-up
+531,74,Rep B,2025-10-27,Visit,Follow-up
+532,67,Rep A,2025-06-25,Email,Follow-up
+533,69,Rep A,2025-08-12,Email,No Response
+534,3,Rep C,2025-08-21,Email,Interested
+535,38,Rep B,2025-11-03,Email,Follow-up
+536,77,Rep C,2025-09-18,Call,Follow-up
+537,42,Rep C,2025-07-09,Email,No Response
+538,40,Rep C,2025-10-29,Email,Follow-up
+539,50,Rep A,2025-07-29,Call,Follow-up
+540,35,Rep B,2025-08-28,Email,No Response
+541,24,Rep B,2025-08-15,Call,Follow-up
+542,17,Rep C,2025-10-10,Call,Follow-up
+543,40,Rep A,2025-11-25,Email,No Response
+544,74,Rep B,2025-08-07,Visit,Interested
+545,66,Rep D,2025-09-26,Email,Follow-up
+546,44,Rep B,2025-09-12,Visit,Follow-up
+547,23,Rep C,2025-08-18,Call,Interested
+548,6,Rep D,2025-11-14,Visit,No Response
+549,66,Rep A,2025-09-07,Email,Interested
+550,21,Rep D,2025-07-30,Email,Follow-up
+551,35,Rep D,2025-11-27,Visit,Interested
+552,29,Rep C,2025-11-29,Email,No Response
+553,7,Rep B,2025-11-07,Visit,Follow-up
+554,53,Rep A,2025-07-05,Call,No Response
+555,37,Rep D,2025-11-11,Visit,No Response
+556,23,Rep C,2025-06-20,Visit,Interested
+557,8,Rep B,2025-10-11,Visit,Interested
+558,76,Rep D,2025-12-06,Visit,No Response
+559,48,Rep C,2025-08-18,Call,No Response
+560,10,Rep C,2025-11-29,Call,Follow-up
+561,79,Rep C,2025-07-25,Call,No Response
+562,24,Rep A,2025-09-07,Visit,No Response
+563,47,Rep B,2025-12-07,Call,Interested
+564,53,Rep D,2025-08-23,Email,No Response
+565,39,Rep B,2025-07-07,Call,No Response
+566,67,Rep B,2025-07-30,Visit,Interested
+567,66,Rep D,2025-12-03,Email,Follow-up
+568,6,Rep B,2025-06-25,Visit,Interested
+569,21,Rep A,2025-08-24,Email,Interested
+570,73,Rep D,2025-06-27,Visit,No Response
+571,74,Rep D,2025-06-25,Visit,No Response
+572,36,Rep C,2025-11-04,Email,Follow-up
+573,3,Rep B,2025-11-28,Call,No Response
+574,78,Rep D,2025-10-03,Email,Follow-up
+575,42,Rep D,2025-08-27,Email,Follow-up
+576,45,Rep A,2025-10-09,Email,Follow-up
+577,44,Rep C,2025-11-03,Email,Follow-up
+578,33,Rep D,2025-12-12,Email,No Response
+579,60,Rep A,2025-07-10,Visit,Interested
+580,70,Rep D,2025-09-23,Visit,Interested
+581,77,Rep D,2025-11-01,Call,No Response
+582,26,Rep D,2025-08-25,Call,No Response
+583,21,Rep A,2025-07-04,Email,Follow-up
+584,2,Rep B,2025-11-20,Call,No Response
+585,47,Rep D,2025-07-22,Call,Interested
+586,30,Rep D,2025-10-21,Email,No Response
+587,27,Rep B,2025-07-25,Visit,No Response
+588,71,Rep D,2025-09-03,Visit,Follow-up
+589,20,Rep C,2025-11-19,Call,Follow-up
+590,50,Rep D,2025-06-24,Visit,Follow-up
+591,23,Rep C,2025-07-29,Visit,Follow-up
+592,13,Rep B,2025-11-27,Call,Interested
+593,4,Rep A,2025-10-08,Email,No Response
+594,14,Rep B,2025-08-20,Call,No Response
+595,20,Rep D,2025-11-07,Call,Follow-up
+596,13,Rep C,2025-07-02,Call,Interested
+597,3,Rep A,2025-09-06,Email,Interested
+598,78,Rep D,2025-11-06,Email,No Response
+599,47,Rep A,2025-09-25,Email,Follow-up
+600,3,Rep A,2025-10-03,Email,No Response
+601,1,Rep D,2025-11-05,Call,No Response
+602,24,Rep B,2025-10-13,Visit,Interested
+603,35,Rep D,2025-11-11,Call,Interested
+604,14,Rep D,2025-06-22,Email,No Response
+605,67,Rep B,2025-10-19,Visit,Follow-up
+606,13,Rep C,2025-12-06,Call,Follow-up
+607,47,Rep D,2025-10-14,Visit,No Response
+608,50,Rep A,2025-09-01,Email,No Response
+609,78,Rep D,2025-10-15,Visit,Follow-up
+610,26,Rep D,2025-11-21,Visit,Follow-up
+611,3,Rep A,2025-11-08,Email,Follow-up
+612,51,Rep B,2025-07-20,Visit,No Response
+613,40,Rep C,2025-10-11,Call,Interested
+614,68,Rep C,2025-09-01,Visit,Follow-up
+615,36,Rep A,2025-08-15,Call,Follow-up
+616,51,Rep B,2025-08-26,Visit,Follow-up
+617,1,Rep D,2025-09-09,Visit,No Response
+618,33,Rep D,2025-08-07,Email,Interested
+619,7,Rep D,2025-11-21,Email,Interested
+620,52,Rep D,2025-10-20,Call,Follow-up
+621,11,Rep D,2025-09-18,Email,No Response
+622,27,Rep A,2025-07-31,Email,Interested
+623,14,Rep D,2025-09-22,Email,No Response
+624,80,Rep D,2025-08-04,Email,Interested
+625,46,Rep B,2025-08-31,Email,Follow-up
+626,76,Rep D,2025-06-30,Call,No Response
+627,10,Rep C,2025-08-15,Call,Follow-up
+628,24,Rep A,2025-12-10,Email,Interested
+629,61,Rep A,2025-07-05,Email,Interested
+630,18,Rep A,2025-10-02,Call,Follow-up
+631,9,Rep C,2025-12-11,Visit,Interested
+632,17,Rep D,2025-11-07,Call,Follow-up
+633,58,Rep A,2025-10-23,Visit,Follow-up
+634,13,Rep C,2025-07-25,Email,Follow-up
+635,50,Rep B,2025-08-27,Email,Interested
+636,6,Rep D,2025-12-03,Call,No Response
+637,51,Rep C,2025-10-25,Email,Follow-up
+638,36,Rep D,2025-08-26,Visit,No Response
+639,71,Rep B,2025-08-22,Visit,Interested
+640,25,Rep C,2025-12-03,Call,Interested
+641,11,Rep D,2025-11-28,Visit,No Response
+642,44,Rep C,2025-08-27,Call,Follow-up
+643,14,Rep A,2025-09-03,Call,Interested
+644,29,Rep D,2025-06-22,Visit,Follow-up
+645,74,Rep C,2025-08-08,Visit,Follow-up
+646,50,Rep A,2025-09-24,Visit,No Response
+647,5,Rep B,2025-10-15,Visit,Interested
+648,72,Rep D,2025-12-09,Visit,No Response
+649,69,Rep D,2025-09-05,Visit,Interested
+650,57,Rep B,2025-09-23,Visit,No Response
+651,26,Rep A,2025-07-22,Email,Interested
+652,6,Rep B,2025-07-30,Call,Interested
+653,16,Rep D,2025-09-12,Call,Interested
+654,60,Rep C,2025-09-05,Visit,Follow-up
+655,12,Rep A,2025-12-03,Call,Follow-up
+656,75,Rep A,2025-11-20,Visit,No Response
+657,3,Rep A,2025-11-15,Email,No Response
+658,63,Rep B,2025-11-01,Call,Interested
+659,64,Rep B,2025-10-20,Call,Interested
+660,62,Rep C,2025-11-29,Email,Follow-up
+661,6,Rep C,2025-10-22,Email,Follow-up
+662,19,Rep A,2025-06-20,Email,Follow-up
+663,18,Rep C,2025-10-13,Call,No Response
+664,80,Rep B,2025-08-31,Call,Follow-up
+665,43,Rep C,2025-09-28,Email,No Response
+666,73,Rep B,2025-11-14,Email,Follow-up
+667,3,Rep C,2025-09-09,Email,Follow-up
+668,72,Rep D,2025-10-20,Email,Interested
+669,38,Rep B,2025-09-05,Email,No Response
+670,68,Rep D,2025-10-23,Visit,Follow-up
+671,76,Rep B,2025-12-07,Email,Interested
+672,44,Rep C,2025-11-07,Visit,No Response
+673,80,Rep D,2025-10-20,Call,No Response
+674,63,Rep C,2025-09-10,Call,Follow-up
+675,42,Rep B,2025-09-10,Visit,No Response
+676,64,Rep D,2025-12-10,Email,Interested
+677,54,Rep A,2025-12-09,Call,Interested
+678,78,Rep C,2025-10-28,Email,No Response
+679,77,Rep B,2025-07-21,Email,Interested
+680,71,Rep D,2025-10-10,Visit,No Response
+681,76,Rep C,2025-11-12,Call,Interested
+682,37,Rep D,2025-12-13,Call,No Response
+683,4,Rep C,2025-11-03,Visit,No Response
+684,2,Rep C,2025-08-31,Email,No Response
+685,44,Rep C,2025-09-14,Email,Interested
+686,67,Rep D,2025-10-23,Call,No Response
+687,68,Rep D,2025-08-26,Visit,No Response
+688,76,Rep C,2025-12-13,Visit,Follow-up
+689,74,Rep A,2025-07-01,Email,Follow-up
+690,62,Rep A,2025-07-21,Email,No Response
+691,1,Rep A,2025-08-21,Visit,Follow-up
+692,17,Rep B,2025-10-04,Call,No Response
+693,16,Rep A,2025-10-04,Email,Follow-up
+694,9,Rep D,2025-07-12,Visit,Interested
+695,53,Rep A,2025-11-09,Visit,Interested
+696,73,Rep D,2025-08-22,Visit,No Response
+697,59,Rep B,2025-09-07,Call,No Response
+698,9,Rep D,2025-11-17,Email,Interested
+699,12,Rep D,2025-10-10,Email,Interested
+700,41,Rep D,2025-11-20,Email,Follow-up
+701,15,Rep A,2025-12-05,Call,No Response
+702,66,Rep C,2025-11-21,Email,Interested
+703,75,Rep D,2025-09-16,Email,Interested
+704,11,Rep A,2025-10-11,Email,No Response
+705,8,Rep A,2025-09-09,Email,Follow-up
+706,55,Rep A,2025-12-05,Call,Follow-up
+707,6,Rep C,2025-09-21,Visit,Follow-up
+708,53,Rep C,2025-09-28,Visit,Follow-up
+709,20,Rep C,2025-10-09,Email,Interested
+710,39,Rep C,2025-08-26,Email,No Response
+711,72,Rep B,2025-09-12,Email,No Response
+712,34,Rep C,2025-08-03,Call,Interested
+713,57,Rep C,2025-06-26,Email,Interested
+714,19,Rep C,2025-09-02,Call,Interested
+715,71,Rep D,2025-09-28,Email,No Response
+716,31,Rep D,2025-10-04,Email,No Response
+717,40,Rep C,2025-07-04,Visit,No Response
+718,14,Rep B,2025-07-31,Email,Follow-up
+719,37,Rep D,2025-08-15,Call,Interested
+720,44,Rep A,2025-11-22,Visit,Interested
+721,9,Rep D,2025-07-22,Call,Interested
+722,58,Rep A,2025-11-23,Visit,No Response
+723,20,Rep D,2025-09-19,Call,Interested
+724,50,Rep C,2025-10-06,Visit,Interested
+725,20,Rep D,2025-06-26,Call,Follow-up
+726,36,Rep C,2025-11-02,Call,No Response
+727,27,Rep C,2025-08-06,Email,Interested
+728,72,Rep D,2025-06-17,Visit,No Response
+729,32,Rep A,2025-06-26,Visit,No Response
+730,1,Rep A,2025-11-17,Email,No Response
+731,17,Rep D,2025-07-05,Call,Follow-up
+732,9,Rep C,2025-06-24,Call,No Response
+733,45,Rep A,2025-10-12,Visit,No Response
+734,66,Rep B,2025-12-01,Call,No Response
+735,32,Rep C,2025-09-10,Visit,Interested
+736,45,Rep D,2025-10-06,Visit,Follow-up
+737,9,Rep C,2025-11-03,Call,Interested
+738,30,Rep B,2025-07-20,Call,Follow-up
+739,38,Rep B,2025-08-19,Call,Follow-up
+740,60,Rep A,2025-07-16,Email,No Response
+741,1,Rep B,2025-06-25,Visit,No Response
+742,5,Rep C,2025-11-19,Call,Interested
+743,63,Rep A,2025-10-11,Email,Follow-up
+744,36,Rep B,2025-10-22,Call,No Response
+745,65,Rep A,2025-06-26,Visit,No Response
+746,78,Rep A,2025-08-12,Email,No Response
+747,73,Rep D,2025-10-22,Visit,No Response
+748,24,Rep A,2025-07-18,Call,Interested
+749,4,Rep A,2025-08-28,Call,Interested
+750,78,Rep B,2025-11-25,Call,No Response
+751,68,Rep C,2025-08-20,Email,No Response
+752,25,Rep C,2025-10-05,Email,No Response
+753,74,Rep B,2025-11-12,Email,No Response
+754,7,Rep C,2025-09-12,Email,No Response
+755,13,Rep A,2025-09-11,Call,Follow-up
+756,68,Rep D,2025-08-25,Call,Follow-up
+757,43,Rep A,2025-12-12,Call,Follow-up
+758,57,Rep A,2025-07-11,Email,Follow-up
+759,36,Rep D,2025-09-22,Email,No Response
+760,14,Rep B,2025-09-29,Call,Follow-up
+761,72,Rep A,2025-07-29,Call,Follow-up
+762,27,Rep A,2025-08-04,Email,Interested
+763,37,Rep B,2025-09-04,Visit,Follow-up
+764,71,Rep A,2025-10-05,Call,Follow-up
+765,76,Rep A,2025-07-04,Call,No Response
+766,25,Rep C,2025-11-07,Call,Follow-up
+767,67,Rep B,2025-08-15,Email,Follow-up
+768,4,Rep A,2025-11-17,Call,No Response
+769,79,Rep A,2025-09-06,Call,Follow-up
+770,74,Rep D,2025-09-20,Call,No Response
+771,16,Rep D,2025-07-16,Call,Follow-up
+772,19,Rep D,2025-11-05,Call,Interested
+773,29,Rep A,2025-08-10,Visit,Interested
+774,51,Rep A,2025-08-30,Visit,Follow-up
+775,18,Rep D,2025-10-13,Call,Interested
+776,58,Rep C,2025-11-11,Call,No Response
+777,44,Rep C,2025-09-01,Call,Follow-up
+778,16,Rep C,2025-11-17,Call,No Response
+779,65,Rep C,2025-10-15,Email,Interested
+780,2,Rep B,2025-11-09,Email,No Response
+781,56,Rep D,2025-11-22,Email,Interested
+782,79,Rep A,2025-08-05,Visit,Interested
+783,28,Rep D,2025-06-16,Call,Interested
+784,65,Rep C,2025-12-07,Email,No Response
+785,5,Rep A,2025-06-14,Call,Interested
+786,22,Rep B,2025-11-27,Call,Follow-up
+787,13,Rep D,2025-12-11,Visit,Interested
+788,65,Rep A,2025-09-18,Visit,Follow-up
+789,16,Rep A,2025-10-19,Email,Follow-up
+790,64,Rep C,2025-07-14,Email,Follow-up
+791,32,Rep C,2025-06-30,Visit,Follow-up
+792,80,Rep D,2025-07-15,Visit,No Response
+793,51,Rep B,2025-09-30,Call,Follow-up
+794,79,Rep A,2025-10-08,Call,Interested
+795,58,Rep C,2025-12-05,Email,Follow-up
+796,46,Rep D,2025-09-12,Email,Interested
+797,52,Rep C,2025-07-25,Visit,No Response
+798,63,Rep D,2025-08-25,Email,Follow-up
+799,76,Rep C,2025-09-07,Call,Interested

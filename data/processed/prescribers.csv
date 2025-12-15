@@ -1,0 +1,81 @@
+prescriber_id,clinic_name,specialty,region,assigned_sales_rep
+1,"Rodriguez, Miranda and Bradshaw",Gastroenterology,East,Rep B
+2,Walker-Liu,Gastroenterology,Midwest,Rep A
+3,Li-Montes,Gastroenterology,East,Rep A
+4,Reese-Vaughn,Gastroenterology,Midwest,Rep D
+5,Taylor Ltd,Gastroenterology,Midwest,Rep A
+6,"Mullen, Davidson and Taylor",Gastroenterology,South,Rep A
+7,Taylor-Fuller,Gastroenterology,West,Rep B
+8,"Johnson, Hammond and Aguirre",Neurology,East,Rep C
+9,Henry Group,Rheumatology,South,Rep A
+10,"Castro, Cervantes and Torres",Gastroenterology,East,Rep C
+11,Green Inc,Neurology,Midwest,Rep A
+12,Bryant-Hardy,Neurology,West,Rep A
+13,Clark Inc,Neurology,East,Rep D
+14,Keller-Barnes,Rheumatology,East,Rep D
+15,Bryan Inc,Gastroenterology,Midwest,Rep D
+16,Stone-Neal,Neurology,East,Rep C
+17,Valencia Ltd,Rheumatology,East,Rep B
+18,Morgan LLC,Rheumatology,Midwest,Rep A
+19,Brown LLC,Rheumatology,South,Rep A
+20,"Sutton, Bryan and Young",Neurology,Midwest,Rep A
+21,Tucker Group,Gastroenterology,South,Rep C
+22,"Jackson, Maddox and Austin",Neurology,West,Rep D
+23,Roberts-Dawson,Neurology,South,Rep B
+24,"Lambert, Smith and Le",Gastroenterology,South,Rep C
+25,Moore-Dominguez,Gastroenterology,West,Rep D
+26,Miller Ltd,Gastroenterology,South,Rep C
+27,Rivera LLC,Rheumatology,Midwest,Rep B
+28,"Choi, Weber and Marquez",Gastroenterology,South,Rep D
+29,Warren Ltd,Neurology,West,Rep C
+30,"Harrell, Skinner and Simmons",Gastroenterology,Midwest,Rep B
+31,"Berger, Porter and Salas",Neurology,West,Rep A
+32,Bryant Ltd,Rheumatology,West,Rep B
+33,"Rodriguez, Golden and Russell",Neurology,East,Rep A
+34,"Murphy, Morgan and Leonard",Neurology,East,Rep C
+35,"Bryant, Davis and Stuart",Gastroenterology,West,Rep D
+36,Vaughn LLC,Gastroenterology,West,Rep D
+37,Smith Group,Neurology,West,Rep C
+38,Perez-Jones,Gastroenterology,East,Rep D
+39,"Medina, Williams and Murphy",Rheumatology,East,Rep D
+40,King Inc,Rheumatology,South,Rep A
+41,Perez Inc,Gastroenterology,South,Rep C
+42,White-Orr,Rheumatology,West,Rep B
+43,"Barnett, Davis and Meadows",Gastroenterology,Midwest,Rep A
+44,Sherman and Sons,Neurology,Midwest,Rep C
+45,Hardin-Jimenez,Neurology,East,Rep A
+46,"Williams, Nelson and Carter",Rheumatology,East,Rep B
+47,Gonzalez Group,Gastroenterology,East,Rep B
+48,"Nelson, Johnson and Hickman",Gastroenterology,West,Rep C
+49,"Hodges, Henry and Singleton",Rheumatology,Midwest,Rep B
+50,Martin Inc,Neurology,South,Rep A
+51,Adams Ltd,Rheumatology,West,Rep B
+52,"Shepard, Martin and Harris",Neurology,South,Rep A
+53,Perez Ltd,Gastroenterology,South,Rep A
+54,"Miles, Garrison and Hansen",Neurology,West,Rep B
+55,Ward LLC,Rheumatology,South,Rep C
+56,"Gallagher, Johnson and Martinez",Gastroenterology,Midwest,Rep D
+57,"Willis, Glenn and Williams",Rheumatology,South,Rep B
+58,Davis PLC,Rheumatology,Midwest,Rep A
+59,Brock-Sanders,Neurology,Midwest,Rep A
+60,"Freeman, White and Allen",Rheumatology,Midwest,Rep B
+61,"Williams, Marshall and Howard",Neurology,East,Rep C
+62,"Dougherty, Macdonald and Mcdonald",Gastroenterology,South,Rep C
+63,Hall LLC,Neurology,West,Rep A
+64,"Kelley, Hale and Parker",Gastroenterology,West,Rep A
+65,Gardner Inc,Neurology,South,Rep C
+66,Oliver and Sons,Rheumatology,East,Rep D
+67,"Brady, Ross and Hall",Neurology,East,Rep B
+68,Park-Burnett,Neurology,Midwest,Rep A
+69,Fletcher Ltd,Gastroenterology,South,Rep A
+70,Adams-Smith,Rheumatology,South,Rep C
+71,Cobb Inc,Neurology,West,Rep B
+72,Jones-Ryan,Rheumatology,South,Rep C
+73,"Smith, Soto and Dawson",Neurology,East,Rep B
+74,Lynn-Garcia,Neurology,South,Rep B
+75,Crawford-Rodriguez,Rheumatology,West,Rep B
+76,Tucker LLC,Neurology,Midwest,Rep A
+77,Gibson-Kirk,Rheumatology,West,Rep D
+78,"Brown, Wells and Lopez",Neurology,West,Rep C
+79,Moreno-Clark,Gastroenterology,Midwest,Rep D
+80,Oconnor-Hickman,Rheumatology,West,Rep C

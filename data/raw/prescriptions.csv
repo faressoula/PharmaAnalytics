@@ -1,0 +1,1201 @@
+rx_id,patient_id,prescriber_id,medication_name,created_date,approval_date,refill_flag,status
+1,218,47,Stelara,2024-09-25,2024-10-08,False,Approved
+2,421,18,Humira,2024-04-29,2024-05-12,True,Approved
+3,472,78,Stelara,2024-03-29,2024-03-31,False,Approved
+4,305,71,Stelara,2024-11-24,2024-12-07,True,Approved
+5,403,13,Skyrizi,2024-03-08,2024-03-15,False,Approved
+6,371,13,Stelara,2024-04-07,2024-04-13,True,Approved
+7,345,31,Skyrizi,2024-09-23,2024-10-07,True,Approved
+8,341,2,Skyrizi,2024-04-14,2024-04-26,False,Approved
+9,384,16,Humira,2024-11-18,2024-11-28,False,Approved
+10,396,9,Skyrizi,2024-05-02,2024-05-14,False,Approved
+11,445,73,Skyrizi,2024-01-29,2024-02-02,False,Approved
+12,425,38,Humira,2024-05-16,2024-05-23,True,Approved
+13,161,75,Skyrizi,2024-07-13,,False,Pending PA
+14,178,54,Humira,2024-08-13,2024-08-22,False,Approved
+15,117,56,Stelara,2024-11-27,2024-12-08,True,Approved
+16,196,45,Humira,2024-06-18,2024-06-21,False,Approved
+17,383,34,Skyrizi,2024-01-09,2024-01-18,False,Approved
+18,490,9,Humira,2024-02-09,,True,Pending PA
+19,327,8,Skyrizi,2024-01-25,,False,Pending PA
+20,86,7,Stelara,2024-09-17,2024-09-25,False,Approved
+21,289,36,Humira,2024-08-13,2024-08-22,False,Approved
+22,81,18,Stelara,2024-05-03,2024-05-07,False,Approved
+23,152,3,Skyrizi,2024-02-07,2024-02-11,False,Approved
+24,61,28,Skyrizi,2024-11-23,2024-12-03,False,Approved
+25,61,70,Stelara,2024-09-07,2024-09-12,True,Approved
+26,354,44,Humira,2024-06-24,2024-06-26,False,Approved
+27,28,21,Humira,2024-03-30,2024-04-11,True,Approved
+28,442,28,Skyrizi,2024-02-06,2024-02-14,True,Approved
+29,43,54,Stelara,2024-11-11,,True,Pending PA
+30,169,54,Stelara,2024-06-24,2024-06-26,True,Approved
+31,423,65,Humira,2024-10-10,2024-10-11,False,Approved
+32,86,21,Humira,2024-03-21,2024-03-23,False,Approved
+33,177,13,Humira,2024-04-23,2024-05-06,False,Approved
+34,17,57,Stelara,2024-02-09,2024-02-20,True,Approved
+35,98,49,Humira,2024-10-27,2024-11-05,False,Approved
+36,454,54,Humira,2024-08-11,2024-08-16,False,Approved
+37,494,10,Skyrizi,2024-11-13,2024-11-27,False,Approved
+38,198,53,Humira,2024-04-24,2024-05-01,True,Approved
+39,98,44,Humira,2024-07-04,2024-07-14,True,Approved
+40,65,47,Stelara,2024-11-18,2024-11-28,False,Approved
+41,330,53,Stelara,2024-02-25,2024-03-10,True,Approved
+42,341,74,Skyrizi,2024-02-09,2024-02-11,True,Approved
+43,5,46,Humira,2024-02-09,,False,Pending PA
+44,2,13,Skyrizi,2024-08-24,2024-09-02,True,Approved
+45,22,37,Stelara,2024-10-15,2024-10-23,True,Approved
+46,112,24,Skyrizi,2024-09-18,2024-09-19,False,Approved
+47,57,2,Stelara,2024-08-03,2024-08-12,True,Approved
+48,66,14,Skyrizi,2024-05-26,2024-05-28,True,Approved
+49,330,10,Skyrizi,2024-12-01,2024-12-07,True,Approved
+50,98,35,Humira,2024-06-16,2024-06-23,True,Approved
+51,144,25,Skyrizi,2024-04-01,2024-04-15,True,Approved
+52,368,3,Humira,2024-02-28,2024-02-29,True,Approved
+53,435,17,Humira,2024-02-28,2024-03-06,True,Approved
+54,125,12,Humira,2024-10-30,2024-10-31,True,Approved
+55,167,54,Humira,2024-06-17,,False,Pending PA
+56,86,24,Skyrizi,2024-09-25,2024-10-02,False,Approved
+57,76,29,Stelara,2024-02-14,2024-02-22,False,Approved
+58,344,43,Stelara,2024-06-29,2024-07-06,False,Approved
+59,495,25,Stelara,2024-06-18,,True,Pending PA
+60,424,60,Skyrizi,2024-07-09,,False,Pending PA
+61,294,65,Humira,2024-06-03,2024-06-09,False,Approved
+62,444,28,Stelara,2024-07-06,2024-07-14,True,Approved
+63,59,16,Skyrizi,2024-01-07,2024-01-09,True,Approved
+64,138,47,Humira,2024-05-12,,True,Pending PA
+65,99,58,Stelara,2024-08-22,2024-08-26,True,Approved
+66,192,76,Humira,2024-02-14,2024-02-17,True,Approved
+67,243,27,Stelara,2024-11-09,,False,Pending PA
+68,319,53,Stelara,2024-09-05,2024-09-13,True,Approved
+69,49,42,Stelara,2024-01-31,2024-02-07,False,Approved
+70,448,59,Humira,2024-01-23,2024-01-26,False,Approved
+71,32,47,Skyrizi,2024-06-08,,True,Pending PA
+72,391,34,Humira,2024-06-06,2024-06-08,False,Approved
+73,277,37,Stelara,2024-02-08,2024-02-10,False,Approved
+74,20,6,Humira,2024-03-22,2024-03-30,True,Approved
+75,154,7,Skyrizi,2024-09-14,,False,Pending PA
+76,383,25,Humira,2024-07-24,2024-07-29,False,Approved
+77,68,33,Skyrizi,2024-03-17,2024-03-23,False,Approved
+78,366,55,Skyrizi,2024-01-12,2024-01-18,True,Approved
+79,372,58,Humira,2024-10-21,2024-10-25,True,Approved
+80,214,7,Stelara,2024-08-11,2024-08-18,True,Approved
+81,143,57,Skyrizi,2024-01-13,2024-01-14,False,Approved
+82,376,12,Humira,2024-02-15,2024-02-29,True,Approved
+83,232,16,Skyrizi,2024-06-03,2024-06-17,False,Approved
+84,213,80,Stelara,2024-04-22,2024-05-02,True,Approved
+85,79,43,Humira,2024-08-20,,False,Pending PA
+86,214,77,Humira,2024-01-17,,True,Pending PA
+87,116,7,Humira,2024-08-10,2024-08-16,True,Approved
+88,92,51,Stelara,2024-07-06,2024-07-11,False,Approved
+89,270,73,Skyrizi,2024-06-11,,True,Pending PA
+90,411,32,Humira,2024-11-21,2024-11-24,False,Approved
+91,381,75,Skyrizi,2024-03-14,2024-03-26,True,Approved
+92,489,8,Skyrizi,2024-08-20,,True,Pending PA
+93,168,72,Stelara,2024-08-11,2024-08-13,False,Approved
+94,58,45,Humira,2024-11-14,,False,Pending PA
+95,284,59,Skyrizi,2024-02-29,2024-03-11,False,Approved
+96,26,4,Humira,2024-11-30,2024-12-07,True,Approved
+97,369,67,Humira,2024-08-09,2024-08-11,False,Approved
+98,447,29,Stelara,2024-02-06,2024-02-08,True,Approved
+99,66,29,Humira,2024-10-04,2024-10-06,False,Approved
+100,409,28,Humira,2024-07-14,2024-07-27,False,Approved
+101,248,77,Skyrizi,2024-08-29,2024-08-30,False,Approved
+102,254,79,Stelara,2024-11-19,2024-11-20,False,Approved
+103,387,44,Humira,2024-08-06,2024-08-08,False,Approved
+104,456,4,Skyrizi,2024-07-10,2024-07-16,False,Approved
+105,44,9,Stelara,2024-01-17,2024-01-24,True,Approved
+106,97,5,Stelara,2024-01-12,,False,Pending PA
+107,42,56,Skyrizi,2024-07-11,2024-07-13,True,Approved
+108,500,50,Skyrizi,2024-01-22,2024-02-01,False,Approved
+109,227,75,Skyrizi,2024-04-29,2024-05-08,False,Approved
+110,262,15,Skyrizi,2024-07-28,2024-08-08,False,Approved
+111,167,32,Skyrizi,2024-11-01,,True,Pending PA
+112,436,28,Humira,2024-09-26,2024-10-01,True,Approved
+113,279,22,Humira,2024-07-10,2024-07-12,False,Approved
+114,89,17,Stelara,2024-06-23,2024-06-29,True,Approved
+115,379,59,Humira,2024-10-11,2024-10-21,False,Approved
+116,178,71,Humira,2024-07-22,2024-08-02,False,Approved
+117,427,57,Humira,2024-06-12,2024-06-25,True,Approved
+118,403,26,Skyrizi,2024-09-07,2024-09-13,True,Approved
+119,197,25,Stelara,2024-08-14,2024-08-15,True,Approved
+120,307,10,Stelara,2024-01-07,2024-01-15,True,Approved
+121,267,45,Stelara,2024-01-29,2024-02-08,False,Approved
+122,268,11,Stelara,2024-02-02,2024-02-13,True,Approved
+123,74,77,Humira,2024-05-13,2024-05-26,True,Approved
+124,8,53,Humira,2024-03-19,2024-03-20,False,Approved
+125,408,72,Skyrizi,2024-02-27,,True,Pending PA
+126,476,68,Stelara,2024-01-26,2024-01-27,True,Approved
+127,297,28,Humira,2024-08-13,2024-08-22,True,Approved
+128,164,75,Humira,2024-10-11,2024-10-16,True,Approved
+129,485,65,Skyrizi,2024-01-04,2024-01-06,False,Approved
+130,85,49,Skyrizi,2024-04-08,2024-04-19,False,Approved
+131,72,47,Skyrizi,2024-02-08,2024-02-10,True,Approved
+132,55,52,Humira,2024-09-27,2024-10-06,True,Approved
+133,393,54,Humira,2024-10-11,2024-10-16,False,Approved
+134,47,60,Skyrizi,2024-06-05,,True,Pending PA
+135,399,57,Stelara,2024-03-15,2024-03-17,True,Approved
+136,432,47,Skyrizi,2024-10-14,2024-10-24,True,Approved
+137,238,31,Skyrizi,2024-05-09,2024-05-15,True,Approved
+138,104,46,Skyrizi,2024-06-23,2024-06-24,True,Approved
+139,210,26,Skyrizi,2024-03-24,2024-04-04,True,Approved
+140,42,5,Humira,2024-01-22,2024-01-24,True,Approved
+141,316,52,Stelara,2024-01-27,2024-01-31,True,Approved
+142,468,75,Skyrizi,2024-07-13,2024-07-16,True,Approved
+143,454,54,Stelara,2024-08-23,2024-08-25,False,Approved
+144,268,33,Stelara,2024-04-01,2024-04-15,False,Approved
+145,386,50,Stelara,2024-01-21,2024-01-24,False,Approved
+146,263,38,Skyrizi,2024-10-29,2024-11-10,True,Approved
+147,336,27,Humira,2024-03-24,2024-04-03,True,Approved
+148,387,15,Skyrizi,2024-09-18,2024-09-30,False,Approved
+149,365,61,Stelara,2024-05-26,2024-05-30,True,Approved
+150,259,21,Stelara,2024-09-13,2024-09-24,False,Approved
+151,283,46,Humira,2024-02-27,,True,Pending PA
+152,114,69,Skyrizi,2024-01-15,2024-01-17,False,Approved
+153,363,6,Stelara,2024-06-10,2024-06-20,False,Approved
+154,40,38,Humira,2024-06-11,2024-06-17,False,Approved
+155,486,62,Stelara,2024-11-15,2024-11-17,True,Approved
+156,417,62,Humira,2024-10-07,2024-10-20,False,Approved
+157,220,78,Humira,2024-10-06,2024-10-15,True,Approved
+158,129,74,Skyrizi,2024-01-12,2024-01-15,True,Approved
+159,8,46,Stelara,2024-09-30,2024-10-13,True,Approved
+160,101,13,Skyrizi,2024-09-27,2024-10-10,True,Approved
+161,416,3,Stelara,2024-07-26,2024-08-09,True,Approved
+162,380,6,Skyrizi,2024-01-27,2024-01-28,True,Approved
+163,176,8,Stelara,2024-03-12,2024-03-21,True,Approved
+164,107,44,Skyrizi,2024-02-29,2024-03-02,False,Approved
+165,101,33,Humira,2024-05-24,2024-06-01,False,Approved
+166,260,75,Stelara,2024-04-02,,False,Pending PA
+167,478,77,Stelara,2024-11-04,2024-11-12,True,Approved
+168,454,50,Humira,2024-01-08,2024-01-15,True,Approved
+169,366,11,Skyrizi,2024-03-19,2024-03-31,True,Approved
+170,246,28,Stelara,2024-01-27,2024-01-28,True,Approved
+171,275,70,Stelara,2024-06-22,2024-07-06,False,Approved
+172,32,41,Skyrizi,2024-02-19,2024-02-27,True,Approved
+173,137,16,Humira,2024-07-17,2024-07-18,False,Approved
+174,12,68,Skyrizi,2024-06-29,2024-07-04,True,Approved
+175,395,48,Skyrizi,2024-01-24,2024-01-31,False,Approved
+176,302,56,Skyrizi,2024-11-11,2024-11-13,True,Approved
+177,375,64,Stelara,2024-02-15,2024-02-24,False,Approved
+178,16,59,Humira,2024-01-15,2024-01-21,True,Approved
+179,129,62,Humira,2024-06-01,2024-06-09,False,Approved
+180,63,76,Skyrizi,2024-08-09,2024-08-18,True,Approved
+181,109,11,Stelara,2024-07-24,2024-07-28,False,Approved
+182,375,18,Skyrizi,2024-09-29,2024-10-13,False,Approved
+183,21,19,Stelara,2024-08-23,2024-08-26,True,Approved
+184,158,55,Stelara,2024-08-15,2024-08-20,False,Approved
+185,269,26,Stelara,2024-01-09,,True,Pending PA
+186,162,6,Stelara,2024-06-14,2024-06-25,True,Approved
+187,260,4,Humira,2024-11-14,2024-11-22,True,Approved
+188,412,29,Stelara,2024-08-01,2024-08-07,False,Approved
+189,102,59,Stelara,2024-04-26,2024-05-09,False,Approved
+190,223,17,Skyrizi,2024-03-12,,True,Pending PA
+191,59,43,Skyrizi,2024-03-04,2024-03-06,True,Approved
+192,247,80,Humira,2024-07-23,2024-07-29,False,Approved
+193,128,66,Skyrizi,2024-07-27,2024-08-07,False,Approved
+194,283,34,Stelara,2024-03-12,2024-03-16,False,Approved
+195,325,8,Skyrizi,2024-10-03,,True,Pending PA
+196,25,13,Humira,2024-09-30,2024-10-06,True,Approved
+197,131,8,Skyrizi,2024-11-15,2024-11-19,True,Approved
+198,353,65,Skyrizi,2024-04-04,,True,Pending PA
+199,196,43,Humira,2024-06-14,2024-06-22,True,Approved
+200,281,39,Humira,2024-02-01,2024-02-10,False,Approved
+201,404,59,Stelara,2024-01-11,2024-01-25,True,Approved
+202,418,44,Skyrizi,2024-10-27,,False,Pending PA
+203,154,9,Stelara,2024-08-04,2024-08-05,False,Approved
+204,382,37,Skyrizi,2024-10-15,2024-10-22,True,Approved
+205,133,74,Skyrizi,2024-04-11,2024-04-15,False,Approved
+206,227,36,Stelara,2024-09-23,2024-10-04,True,Approved
+207,189,28,Skyrizi,2024-08-01,,False,Pending PA
+208,476,42,Skyrizi,2024-06-27,2024-07-03,True,Approved
+209,477,43,Skyrizi,2024-03-28,2024-04-08,True,Approved
+210,265,42,Humira,2024-02-10,2024-02-17,False,Approved
+211,372,66,Stelara,2024-03-16,2024-03-28,True,Approved
+212,486,55,Humira,2024-02-15,2024-02-27,False,Approved
+213,434,72,Stelara,2024-06-08,,True,Pending PA
+214,134,48,Stelara,2024-03-20,,True,Pending PA
+215,211,22,Skyrizi,2024-11-05,2024-11-12,True,Approved
+216,60,27,Stelara,2024-03-26,2024-04-04,False,Approved
+217,428,67,Humira,2024-04-01,2024-04-09,False,Approved
+218,377,13,Humira,2024-05-27,2024-06-08,True,Approved
+219,395,45,Humira,2024-06-09,2024-06-10,False,Approved
+220,450,10,Stelara,2024-07-20,2024-07-29,True,Approved
+221,431,9,Humira,2024-08-29,2024-09-08,False,Approved
+222,364,54,Stelara,2024-01-02,2024-01-15,False,Approved
+223,364,27,Humira,2024-08-12,2024-08-19,True,Approved
+224,457,34,Humira,2024-10-15,2024-10-29,True,Approved
+225,213,1,Stelara,2024-08-20,2024-08-23,True,Approved
+226,216,32,Humira,2024-03-17,,True,Pending PA
+227,226,71,Skyrizi,2024-04-25,2024-05-06,True,Approved
+228,470,67,Stelara,2024-06-02,2024-06-16,False,Approved
+229,131,20,Stelara,2024-04-12,,False,Pending PA
+230,76,35,Stelara,2024-07-12,2024-07-17,True,Approved
+231,476,78,Skyrizi,2024-06-14,2024-06-24,True,Approved
+232,286,17,Stelara,2024-03-30,2024-04-06,True,Approved
+233,474,18,Humira,2024-06-22,2024-06-24,False,Approved
+234,496,45,Humira,2024-05-01,2024-05-09,True,Approved
+235,277,53,Humira,2024-05-22,2024-05-30,True,Approved
+236,156,68,Stelara,2024-04-15,,False,Pending PA
+237,248,65,Humira,2024-10-31,2024-11-11,False,Approved
+238,218,1,Stelara,2024-11-12,2024-11-24,False,Approved
+239,190,58,Humira,2024-05-02,2024-05-08,False,Approved
+240,417,26,Skyrizi,2024-01-09,2024-01-22,True,Approved
+241,469,20,Skyrizi,2024-09-18,2024-09-30,False,Approved
+242,163,10,Skyrizi,2024-03-13,2024-03-26,False,Approved
+243,180,59,Skyrizi,2024-08-10,2024-08-19,True,Approved
+244,34,75,Stelara,2024-02-10,2024-02-15,True,Approved
+245,41,41,Humira,2024-07-22,2024-08-01,True,Approved
+246,307,5,Skyrizi,2024-09-20,2024-09-27,False,Approved
+247,431,65,Stelara,2024-11-23,2024-11-29,True,Approved
+248,338,17,Skyrizi,2024-06-26,2024-07-07,False,Approved
+249,314,22,Skyrizi,2024-11-13,2024-11-25,False,Approved
+250,75,41,Stelara,2024-03-24,,False,Pending PA
+251,441,68,Stelara,2024-11-13,,True,Pending PA
+252,279,69,Humira,2024-04-20,2024-04-23,False,Approved
+253,176,11,Humira,2024-09-07,2024-09-19,True,Approved
+254,384,56,Skyrizi,2024-01-07,2024-01-15,True,Approved
+255,150,51,Skyrizi,2024-03-24,2024-03-26,True,Approved
+256,273,21,Humira,2024-07-26,2024-08-09,False,Approved
+257,325,76,Humira,2024-11-09,2024-11-22,False,Approved
+258,108,26,Stelara,2024-01-22,2024-01-29,False,Approved
+259,139,19,Humira,2024-01-03,2024-01-14,True,Approved
+260,350,60,Humira,2024-05-06,2024-05-11,False,Approved
+261,271,71,Skyrizi,2024-10-23,2024-10-29,False,Approved
+262,347,47,Humira,2024-07-06,2024-07-19,False,Approved
+263,419,71,Skyrizi,2024-01-14,2024-01-19,False,Approved
+264,289,26,Humira,2024-01-12,2024-01-15,False,Approved
+265,212,40,Stelara,2024-03-27,2024-04-05,True,Approved
+266,381,5,Humira,2024-01-12,2024-01-20,True,Approved
+267,272,21,Humira,2024-01-25,,True,Pending PA
+268,418,78,Humira,2024-10-27,2024-10-28,True,Approved
+269,66,4,Skyrizi,2024-08-30,2024-09-07,False,Approved
+270,483,23,Stelara,2024-05-01,2024-05-10,True,Approved
+271,424,15,Humira,2024-05-26,2024-05-29,False,Approved
+272,248,8,Skyrizi,2024-02-24,2024-03-04,True,Approved
+273,156,41,Stelara,2024-08-25,2024-08-28,True,Approved
+274,47,19,Skyrizi,2024-06-21,,True,Pending PA
+275,423,46,Skyrizi,2024-08-08,2024-08-18,False,Approved
+276,454,28,Stelara,2024-04-28,2024-05-11,False,Approved
+277,201,68,Humira,2024-11-04,2024-11-11,True,Approved
+278,148,15,Skyrizi,2024-07-01,2024-07-03,False,Approved
+279,124,37,Skyrizi,2024-10-14,2024-10-23,True,Approved
+280,1,1,Humira,2024-11-02,2024-11-15,True,Approved
+281,456,67,Humira,2024-10-26,2024-11-02,True,Approved
+282,247,24,Stelara,2024-03-22,2024-04-05,False,Approved
+283,343,27,Stelara,2024-07-29,2024-08-08,True,Approved
+284,128,40,Stelara,2024-05-29,2024-06-03,True,Approved
+285,191,63,Humira,2024-02-06,2024-02-14,True,Approved
+286,67,61,Skyrizi,2024-11-07,2024-11-09,False,Approved
+287,4,36,Skyrizi,2024-02-28,2024-03-12,True,Approved
+288,442,24,Stelara,2024-05-10,2024-05-23,False,Approved
+289,409,24,Humira,2024-07-20,2024-08-02,True,Approved
+290,303,4,Skyrizi,2024-08-30,2024-09-11,False,Approved
+291,294,67,Stelara,2024-02-04,2024-02-13,True,Approved
+292,143,34,Skyrizi,2024-04-02,2024-04-10,True,Approved
+293,191,57,Skyrizi,2024-07-25,,False,Pending PA
+294,21,49,Humira,2024-11-27,2024-12-04,False,Approved
+295,227,53,Humira,2024-10-31,2024-11-01,True,Approved
+296,313,23,Skyrizi,2024-07-31,2024-08-07,False,Approved
+297,117,69,Stelara,2024-06-07,2024-06-17,True,Approved
+298,437,53,Humira,2024-01-24,2024-02-05,True,Approved
+299,302,62,Skyrizi,2024-10-19,,True,Pending PA
+300,500,41,Humira,2024-01-04,2024-01-16,False,Approved
+301,142,57,Humira,2024-08-07,,True,Pending PA
+302,484,60,Humira,2024-01-20,2024-01-25,False,Approved
+303,460,54,Skyrizi,2024-05-31,,True,Pending PA
+304,401,70,Stelara,2024-02-19,,False,Pending PA
+305,39,57,Stelara,2024-06-25,2024-06-26,False,Approved
+306,393,10,Stelara,2024-04-05,2024-04-18,True,Approved
+307,355,40,Humira,2024-04-14,,False,Pending PA
+308,252,7,Skyrizi,2024-09-06,2024-09-15,True,Approved
+309,333,38,Humira,2024-04-26,2024-04-28,True,Approved
+310,207,61,Stelara,2024-08-15,2024-08-21,True,Approved
+311,210,3,Stelara,2024-03-06,2024-03-12,True,Approved
+312,115,51,Skyrizi,2024-11-30,2024-12-07,True,Approved
+313,225,47,Humira,2024-09-18,2024-09-24,False,Approved
+314,134,68,Stelara,2024-10-21,,True,Pending PA
+315,251,76,Skyrizi,2024-08-30,2024-09-08,False,Approved
+316,219,38,Humira,2024-07-04,2024-07-08,False,Approved
+317,407,36,Humira,2024-09-02,2024-09-03,True,Approved
+318,443,41,Stelara,2024-05-04,2024-05-10,False,Approved
+319,91,69,Stelara,2024-09-24,2024-09-25,True,Approved
+320,354,13,Humira,2024-05-10,2024-05-15,False,Approved
+321,376,58,Humira,2024-08-24,2024-09-02,False,Approved
+322,46,50,Stelara,2024-01-18,2024-01-25,False,Approved
+323,38,30,Humira,2024-02-09,,True,Pending PA
+324,142,62,Stelara,2024-01-21,,False,Pending PA
+325,100,25,Humira,2024-08-12,2024-08-26,True,Approved
+326,328,27,Stelara,2024-10-08,2024-10-12,False,Approved
+327,190,51,Skyrizi,2024-01-08,2024-01-20,False,Approved
+328,35,78,Stelara,2024-04-09,,False,Pending PA
+329,147,57,Stelara,2024-08-27,2024-09-08,False,Approved
+330,30,47,Skyrizi,2024-03-27,2024-04-10,True,Approved
+331,334,39,Humira,2024-10-24,2024-11-06,True,Approved
+332,84,16,Skyrizi,2024-01-14,2024-01-26,False,Approved
+333,369,22,Stelara,2024-11-29,2024-12-04,False,Approved
+334,281,54,Humira,2024-01-02,2024-01-09,True,Approved
+335,424,21,Skyrizi,2024-10-19,2024-11-01,True,Approved
+336,344,72,Humira,2024-11-20,2024-12-03,True,Approved
+337,270,16,Humira,2024-02-10,2024-02-20,True,Approved
+338,154,59,Skyrizi,2024-11-13,,False,Pending PA
+339,102,31,Humira,2024-11-11,2024-11-18,False,Approved
+340,215,42,Skyrizi,2024-04-20,,True,Pending PA
+341,150,74,Stelara,2024-01-14,2024-01-18,True,Approved
+342,432,32,Humira,2024-08-18,2024-08-27,True,Approved
+343,83,59,Stelara,2024-03-24,2024-04-02,True,Approved
+344,110,34,Stelara,2024-05-09,2024-05-15,True,Approved
+345,435,9,Humira,2024-08-18,2024-08-25,True,Approved
+346,387,11,Skyrizi,2024-11-21,2024-11-23,False,Approved
+347,426,10,Humira,2024-05-24,2024-05-27,False,Approved
+348,275,17,Stelara,2024-01-28,2024-02-10,False,Approved
+349,201,68,Stelara,2024-03-06,2024-03-17,True,Approved
+350,284,48,Skyrizi,2024-06-11,2024-06-16,True,Approved
+351,468,52,Humira,2024-08-16,,True,Pending PA
+352,173,25,Stelara,2024-09-17,2024-09-28,False,Approved
+353,327,21,Stelara,2024-06-12,2024-06-17,True,Approved
+354,206,65,Stelara,2024-10-27,2024-11-10,True,Approved
+355,63,63,Skyrizi,2024-10-29,2024-11-03,False,Approved
+356,73,51,Stelara,2024-10-13,2024-10-19,True,Approved
+357,251,36,Stelara,2024-01-10,2024-01-24,False,Approved
+358,124,66,Humira,2024-07-13,2024-07-19,False,Approved
+359,375,15,Humira,2024-04-27,,True,Pending PA
+360,121,39,Stelara,2024-09-26,2024-10-01,False,Approved
+361,275,70,Stelara,2024-03-20,2024-03-22,True,Approved
+362,431,1,Humira,2024-04-02,2024-04-15,False,Approved
+363,500,23,Skyrizi,2024-09-22,2024-09-28,True,Approved
+364,398,39,Skyrizi,2024-11-27,2024-12-08,False,Approved
+365,120,57,Skyrizi,2024-09-13,2024-09-24,True,Approved
+366,422,34,Skyrizi,2024-05-12,2024-05-23,False,Approved
+367,437,41,Skyrizi,2024-10-02,2024-10-03,False,Approved
+368,317,73,Skyrizi,2024-09-20,2024-09-21,False,Approved
+369,164,13,Skyrizi,2024-06-19,2024-07-02,True,Approved
+370,424,70,Skyrizi,2024-01-01,2024-01-08,True,Approved
+371,465,6,Humira,2024-11-08,2024-11-11,False,Approved
+372,286,52,Skyrizi,2024-03-04,2024-03-17,True,Approved
+373,265,3,Skyrizi,2024-10-10,2024-10-19,False,Approved
+374,320,63,Skyrizi,2024-04-30,2024-05-01,True,Approved
+375,161,49,Stelara,2024-04-16,,False,Pending PA
+376,376,76,Humira,2024-06-23,2024-06-26,True,Approved
+377,308,47,Humira,2024-07-22,2024-07-26,False,Approved
+378,89,55,Humira,2024-06-13,2024-06-19,False,Approved
+379,142,64,Skyrizi,2024-10-31,2024-11-12,False,Approved
+380,203,65,Skyrizi,2024-04-29,2024-05-10,False,Approved
+381,309,67,Stelara,2024-02-13,2024-02-15,True,Approved
+382,227,15,Humira,2024-11-07,,False,Pending PA
+383,489,32,Skyrizi,2024-06-04,,True,Pending PA
+384,443,68,Humira,2024-07-25,,True,Pending PA
+385,334,18,Stelara,2024-04-17,2024-04-18,False,Approved
+386,222,43,Stelara,2024-09-07,2024-09-18,True,Approved
+387,41,35,Stelara,2024-11-29,2024-12-09,True,Approved
+388,196,78,Humira,2024-05-09,,True,Pending PA
+389,68,58,Skyrizi,2024-10-19,2024-10-25,False,Approved
+390,476,33,Skyrizi,2024-01-20,,True,Pending PA
+391,264,14,Stelara,2024-10-08,2024-10-20,True,Approved
+392,2,34,Skyrizi,2024-10-11,2024-10-22,False,Approved
+393,361,61,Stelara,2024-01-01,2024-01-08,False,Approved
+394,125,4,Humira,2024-04-28,2024-04-30,True,Approved
+395,110,59,Stelara,2024-02-04,2024-02-17,False,Approved
+396,86,29,Humira,2024-07-16,2024-07-29,True,Approved
+397,425,6,Stelara,2024-09-01,2024-09-09,True,Approved
+398,120,49,Skyrizi,2024-02-28,2024-03-03,True,Approved
+399,127,40,Skyrizi,2024-11-20,2024-11-23,False,Approved
+400,255,65,Stelara,2024-06-09,2024-06-15,True,Approved
+401,183,69,Skyrizi,2024-06-27,2024-07-04,False,Approved
+402,16,27,Skyrizi,2024-07-24,2024-07-29,False,Approved
+403,477,80,Skyrizi,2024-01-12,2024-01-21,True,Approved
+404,62,6,Humira,2024-10-02,2024-10-10,False,Approved
+405,369,13,Skyrizi,2024-06-29,2024-07-04,False,Approved
+406,432,64,Humira,2024-08-29,2024-09-02,False,Approved
+407,158,62,Stelara,2024-08-03,2024-08-12,False,Approved
+408,268,19,Skyrizi,2024-09-07,2024-09-12,False,Approved
+409,35,76,Skyrizi,2024-10-25,2024-11-01,True,Approved
+410,267,80,Skyrizi,2024-05-05,2024-05-15,False,Approved
+411,64,43,Stelara,2024-08-04,2024-08-07,True,Approved
+412,494,74,Humira,2024-11-01,2024-11-06,True,Approved
+413,50,20,Humira,2024-10-11,2024-10-13,True,Approved
+414,469,68,Skyrizi,2024-07-03,2024-07-10,True,Approved
+415,255,44,Stelara,2024-02-08,2024-02-12,True,Approved
+416,149,23,Stelara,2024-08-10,2024-08-14,True,Approved
+417,325,2,Stelara,2024-07-02,2024-07-13,False,Approved
+418,304,22,Stelara,2024-06-26,2024-06-27,False,Approved
+419,276,57,Stelara,2024-10-20,,False,Pending PA
+420,357,72,Humira,2024-05-30,2024-06-04,True,Approved
+421,451,7,Humira,2024-05-05,2024-05-18,False,Approved
+422,172,78,Humira,2024-10-27,2024-11-10,False,Approved
+423,417,56,Skyrizi,2024-11-03,2024-11-14,False,Approved
+424,201,67,Stelara,2024-12-01,2024-12-15,True,Approved
+425,445,16,Skyrizi,2024-08-21,2024-08-22,False,Approved
+426,393,51,Stelara,2024-01-08,2024-01-15,True,Approved
+427,324,80,Humira,2024-05-08,2024-05-10,False,Approved
+428,35,72,Skyrizi,2024-09-20,2024-09-27,True,Approved
+429,465,12,Humira,2024-06-05,2024-06-16,True,Approved
+430,482,53,Stelara,2024-01-05,2024-01-12,True,Approved
+431,216,75,Stelara,2024-03-26,2024-03-27,False,Approved
+432,480,5,Stelara,2024-06-23,,False,Pending PA
+433,65,27,Humira,2024-10-16,2024-10-17,True,Approved
+434,8,12,Stelara,2024-07-11,2024-07-20,False,Approved
+435,301,17,Humira,2024-11-06,2024-11-10,True,Approved
+436,343,6,Skyrizi,2024-04-28,2024-04-29,True,Approved
+437,431,5,Stelara,2024-08-05,2024-08-10,False,Approved
+438,424,57,Stelara,2024-04-23,2024-04-27,False,Approved
+439,332,28,Stelara,2024-05-24,2024-05-26,False,Approved
+440,438,78,Skyrizi,2024-01-26,2024-01-31,True,Approved
+441,76,69,Stelara,2024-05-15,2024-05-16,True,Approved
+442,174,59,Humira,2024-10-29,2024-10-30,False,Approved
+443,47,33,Humira,2024-08-19,2024-08-31,True,Approved
+444,15,62,Stelara,2024-03-16,2024-03-17,False,Approved
+445,361,50,Stelara,2024-11-23,2024-11-25,True,Approved
+446,147,19,Skyrizi,2024-10-28,2024-11-03,False,Approved
+447,26,69,Skyrizi,2024-10-15,,False,Pending PA
+448,308,66,Skyrizi,2024-01-01,2024-01-04,True,Approved
+449,93,47,Stelara,2024-05-26,,False,Pending PA
+450,406,39,Skyrizi,2024-10-13,2024-10-25,False,Approved
+451,232,68,Skyrizi,2024-05-21,2024-05-27,True,Approved
+452,21,33,Humira,2024-02-22,2024-03-05,False,Approved
+453,307,13,Skyrizi,2024-10-30,2024-11-06,True,Approved
+454,38,54,Humira,2024-03-09,2024-03-18,False,Approved
+455,276,7,Humira,2024-03-30,2024-04-09,True,Approved
+456,157,79,Skyrizi,2024-08-07,2024-08-18,False,Approved
+457,179,14,Humira,2024-07-10,2024-07-21,False,Approved
+458,132,19,Stelara,2024-03-03,2024-03-10,False,Approved
+459,311,54,Stelara,2024-03-13,2024-03-16,False,Approved
+460,455,20,Skyrizi,2024-06-09,,True,Pending PA
+461,348,29,Stelara,2024-06-17,2024-06-27,True,Approved
+462,28,24,Humira,2024-03-29,2024-04-03,True,Approved
+463,260,63,Stelara,2024-06-24,2024-07-08,True,Approved
+464,406,74,Skyrizi,2024-09-25,2024-10-04,True,Approved
+465,76,57,Skyrizi,2024-03-13,2024-03-21,True,Approved
+466,429,8,Humira,2024-09-01,,True,Pending PA
+467,67,62,Skyrizi,2024-03-17,2024-03-27,False,Approved
+468,342,29,Stelara,2024-06-07,2024-06-15,False,Approved
+469,492,74,Skyrizi,2024-11-19,,False,Pending PA
+470,194,17,Humira,2024-04-07,2024-04-10,False,Approved
+471,472,66,Skyrizi,2024-04-11,2024-04-19,True,Approved
+472,162,6,Stelara,2024-05-11,2024-05-24,True,Approved
+473,347,58,Humira,2024-04-11,2024-04-23,True,Approved
+474,439,69,Stelara,2024-01-19,2024-01-25,False,Approved
+475,361,28,Humira,2024-03-22,2024-03-31,True,Approved
+476,257,62,Skyrizi,2024-10-05,2024-10-09,False,Approved
+477,72,41,Humira,2024-11-26,2024-11-28,True,Approved
+478,87,69,Humira,2024-05-08,2024-05-17,True,Approved
+479,422,41,Skyrizi,2024-11-05,,True,Pending PA
+480,262,49,Stelara,2024-03-29,2024-03-30,True,Approved
+481,214,49,Skyrizi,2024-07-31,,False,Pending PA
+482,153,76,Humira,2024-05-22,,False,Pending PA
+483,210,71,Skyrizi,2024-03-05,2024-03-08,True,Approved
+484,401,3,Humira,2024-03-16,,False,Pending PA
+485,61,10,Skyrizi,2024-07-17,2024-07-22,True,Approved
+486,268,35,Skyrizi,2024-05-22,2024-05-31,True,Approved
+487,262,80,Stelara,2024-11-11,2024-11-19,True,Approved
+488,218,2,Humira,2024-04-02,2024-04-08,True,Approved
+489,283,24,Stelara,2024-10-31,2024-11-14,False,Approved
+490,136,74,Humira,2024-08-11,2024-08-18,True,Approved
+491,467,38,Skyrizi,2024-10-17,,True,Pending PA
+492,380,22,Humira,2024-04-11,2024-04-20,False,Approved
+493,362,26,Stelara,2024-09-23,2024-10-06,True,Approved
+494,449,43,Stelara,2024-04-19,2024-04-29,False,Approved
+495,441,55,Stelara,2024-11-25,2024-12-04,True,Approved
+496,93,39,Humira,2024-09-21,2024-09-27,True,Approved
+497,109,29,Stelara,2024-01-03,2024-01-07,True,Approved
+498,241,20,Stelara,2024-03-25,,True,Pending PA
+499,355,41,Stelara,2024-10-08,2024-10-18,True,Approved
+500,424,54,Skyrizi,2024-11-23,2024-11-26,True,Approved
+501,142,20,Skyrizi,2024-10-30,2024-11-10,False,Approved
+502,291,19,Humira,2024-04-26,2024-05-05,True,Approved
+503,432,66,Humira,2024-08-08,2024-08-11,False,Approved
+504,237,30,Stelara,2024-06-02,2024-06-14,False,Approved
+505,340,53,Skyrizi,2024-06-01,2024-06-11,True,Approved
+506,312,34,Stelara,2024-01-12,2024-01-25,False,Approved
+507,177,22,Stelara,2024-05-12,,True,Pending PA
+508,141,67,Skyrizi,2024-10-30,2024-11-01,False,Approved
+509,189,6,Skyrizi,2024-10-19,2024-11-02,True,Approved
+510,486,79,Skyrizi,2024-10-26,,False,Pending PA
+511,49,27,Humira,2024-08-15,2024-08-28,False,Approved
+512,302,10,Humira,2024-09-27,2024-10-03,True,Approved
+513,369,73,Stelara,2024-02-12,2024-02-15,False,Approved
+514,190,48,Humira,2024-11-21,2024-11-24,True,Approved
+515,136,70,Skyrizi,2024-10-28,2024-10-31,True,Approved
+516,43,59,Skyrizi,2024-01-21,2024-02-03,True,Approved
+517,404,59,Humira,2024-04-16,2024-04-22,True,Approved
+518,380,2,Stelara,2024-12-01,2024-12-02,True,Approved
+519,353,29,Stelara,2024-10-29,,False,Pending PA
+520,90,68,Humira,2024-04-26,2024-05-01,False,Approved
+521,295,65,Stelara,2024-05-03,2024-05-17,False,Approved
+522,341,26,Stelara,2024-10-07,2024-10-20,True,Approved
+523,245,10,Stelara,2024-10-18,,False,Pending PA
+524,433,53,Skyrizi,2024-07-21,2024-08-01,False,Approved
+525,192,79,Skyrizi,2024-02-20,2024-02-23,False,Approved
+526,318,59,Humira,2024-09-27,2024-10-05,False,Approved
+527,106,22,Skyrizi,2024-11-19,2024-11-25,False,Approved
+528,363,51,Stelara,2024-10-03,,True,Pending PA
+529,310,48,Skyrizi,2024-05-20,2024-05-30,True,Approved
+530,382,21,Humira,2024-10-01,2024-10-15,False,Approved
+531,233,22,Skyrizi,2024-10-16,2024-10-27,True,Approved
+532,265,30,Stelara,2024-11-29,2024-12-02,True,Approved
+533,344,25,Stelara,2024-02-21,2024-02-22,False,Approved
+534,37,28,Humira,2024-01-27,2024-01-29,False,Approved
+535,305,65,Skyrizi,2024-06-05,,True,Pending PA
+536,41,45,Skyrizi,2024-08-26,2024-08-31,False,Approved
+537,17,68,Skyrizi,2024-06-04,,True,Pending PA
+538,344,7,Stelara,2024-10-17,2024-10-28,True,Approved
+539,277,49,Humira,2024-05-15,2024-05-24,False,Approved
+540,307,9,Skyrizi,2024-05-23,2024-06-01,True,Approved
+541,59,36,Stelara,2024-04-15,,True,Pending PA
+542,423,1,Stelara,2024-06-06,2024-06-20,True,Approved
+543,183,10,Stelara,2024-05-25,2024-06-06,False,Approved
+544,41,36,Skyrizi,2024-01-02,2024-01-07,False,Approved
+545,39,73,Skyrizi,2024-03-17,2024-03-19,False,Approved
+546,397,46,Skyrizi,2024-05-11,2024-05-16,False,Approved
+547,192,32,Skyrizi,2024-03-30,2024-04-03,True,Approved
+548,267,32,Skyrizi,2024-09-19,2024-10-03,False,Approved
+549,494,6,Skyrizi,2024-04-17,2024-04-28,False,Approved
+550,147,48,Skyrizi,2024-03-14,2024-03-20,False,Approved
+551,395,38,Skyrizi,2024-02-08,2024-02-10,False,Approved
+552,333,17,Skyrizi,2024-06-07,2024-06-13,True,Approved
+553,127,74,Stelara,2024-03-11,,True,Pending PA
+554,46,27,Skyrizi,2024-11-07,2024-11-21,True,Approved
+555,45,54,Humira,2024-08-28,,False,Pending PA
+556,1,50,Stelara,2024-10-24,2024-10-27,False,Approved
+557,168,35,Skyrizi,2024-02-05,2024-02-16,True,Approved
+558,108,25,Humira,2024-03-24,2024-04-06,False,Approved
+559,19,28,Skyrizi,2024-09-19,2024-09-30,False,Approved
+560,332,15,Humira,2024-11-05,2024-11-07,True,Approved
+561,72,4,Humira,2024-06-20,2024-06-21,True,Approved
+562,456,73,Humira,2024-06-21,2024-07-02,False,Approved
+563,445,27,Humira,2024-02-16,2024-02-26,False,Approved
+564,109,26,Stelara,2024-05-20,2024-05-27,False,Approved
+565,268,19,Stelara,2024-04-27,2024-05-11,True,Approved
+566,445,17,Humira,2024-10-03,2024-10-12,True,Approved
+567,240,43,Skyrizi,2024-08-01,2024-08-13,True,Approved
+568,417,41,Humira,2024-08-07,2024-08-15,True,Approved
+569,301,42,Stelara,2024-01-26,2024-01-29,False,Approved
+570,90,50,Skyrizi,2024-01-09,2024-01-10,True,Approved
+571,103,40,Stelara,2024-09-27,2024-10-07,True,Approved
+572,476,39,Stelara,2024-01-10,2024-01-17,False,Approved
+573,250,23,Skyrizi,2024-04-30,2024-05-08,False,Approved
+574,453,52,Humira,2024-05-04,2024-05-18,False,Approved
+575,8,47,Humira,2024-06-18,2024-06-20,True,Approved
+576,153,63,Humira,2024-03-12,2024-03-24,False,Approved
+577,347,69,Humira,2024-05-31,2024-06-02,False,Approved
+578,174,43,Skyrizi,2024-07-26,2024-08-04,True,Approved
+579,343,48,Skyrizi,2024-02-18,,True,Pending PA
+580,158,34,Skyrizi,2024-06-02,,False,Pending PA
+581,493,40,Stelara,2024-10-19,2024-10-30,True,Approved
+582,431,75,Skyrizi,2024-03-08,2024-03-09,False,Approved
+583,215,61,Humira,2024-02-19,,False,Pending PA
+584,177,50,Stelara,2024-05-31,2024-06-02,True,Approved
+585,175,67,Humira,2024-01-19,2024-01-27,False,Approved
+586,340,62,Humira,2024-04-09,2024-04-10,True,Approved
+587,338,58,Skyrizi,2024-02-29,2024-03-04,True,Approved
+588,146,33,Skyrizi,2024-06-15,2024-06-25,True,Approved
+589,450,75,Humira,2024-07-20,2024-07-22,False,Approved
+590,324,16,Humira,2024-05-25,2024-06-06,True,Approved
+591,478,48,Stelara,2024-06-12,2024-06-17,True,Approved
+592,161,10,Skyrizi,2024-08-29,2024-09-10,False,Approved
+593,127,38,Stelara,2024-03-09,2024-03-17,False,Approved
+594,420,19,Stelara,2024-06-23,2024-07-07,False,Approved
+595,82,36,Stelara,2024-02-18,2024-03-03,False,Approved
+596,485,59,Humira,2024-04-17,2024-05-01,True,Approved
+597,147,63,Stelara,2024-08-13,,True,Pending PA
+598,239,77,Stelara,2024-06-09,2024-06-22,True,Approved
+599,412,46,Humira,2024-04-28,2024-05-08,False,Approved
+600,424,3,Skyrizi,2024-05-28,2024-06-04,False,Approved
+601,84,74,Skyrizi,2024-05-29,2024-06-10,True,Approved
+602,113,65,Stelara,2024-10-19,2024-10-26,False,Approved
+603,225,8,Humira,2024-05-22,2024-06-04,False,Approved
+604,332,51,Skyrizi,2024-06-08,2024-06-15,True,Approved
+605,378,73,Stelara,2024-01-11,2024-01-25,True,Approved
+606,243,6,Stelara,2024-05-17,2024-05-29,False,Approved
+607,143,39,Humira,2024-03-18,2024-03-27,False,Approved
+608,41,60,Stelara,2024-03-17,2024-03-18,False,Approved
+609,423,28,Skyrizi,2024-09-10,2024-09-19,True,Approved
+610,258,54,Humira,2024-09-14,2024-09-19,True,Approved
+611,447,37,Skyrizi,2024-11-15,2024-11-28,True,Approved
+612,285,9,Skyrizi,2024-10-17,2024-10-20,True,Approved
+613,105,56,Skyrizi,2024-09-19,2024-09-23,True,Approved
+614,202,59,Stelara,2024-03-25,2024-03-28,False,Approved
+615,450,2,Stelara,2024-05-25,,False,Pending PA
+616,307,61,Skyrizi,2024-11-18,,False,Pending PA
+617,331,58,Skyrizi,2024-02-11,2024-02-13,True,Approved
+618,461,60,Humira,2024-05-04,,True,Pending PA
+619,266,40,Humira,2024-06-15,2024-06-20,True,Approved
+620,398,36,Stelara,2024-08-28,2024-08-29,False,Approved
+621,210,37,Stelara,2024-10-06,2024-10-10,True,Approved
+622,51,79,Humira,2024-07-06,2024-07-08,True,Approved
+623,118,18,Skyrizi,2024-10-28,,False,Pending PA
+624,201,63,Stelara,2024-01-19,2024-01-30,True,Approved
+625,377,22,Skyrizi,2024-03-08,2024-03-15,False,Approved
+626,39,11,Humira,2024-08-05,2024-08-08,True,Approved
+627,28,58,Stelara,2024-04-11,,True,Pending PA
+628,259,57,Stelara,2024-02-11,2024-02-13,False,Approved
+629,84,77,Humira,2024-10-14,2024-10-28,False,Approved
+630,454,4,Stelara,2024-06-15,2024-06-16,False,Approved
+631,155,7,Humira,2024-04-18,,False,Pending PA
+632,117,61,Stelara,2024-02-05,2024-02-11,False,Approved
+633,2,54,Humira,2024-08-19,2024-08-30,False,Approved
+634,93,68,Stelara,2024-08-16,2024-08-21,True,Approved
+635,166,79,Skyrizi,2024-06-12,2024-06-17,True,Approved
+636,387,1,Skyrizi,2024-03-13,2024-03-18,False,Approved
+637,400,55,Skyrizi,2024-05-15,2024-05-19,True,Approved
+638,350,3,Stelara,2024-03-10,2024-03-18,False,Approved
+639,296,78,Stelara,2024-07-14,2024-07-17,True,Approved
+640,258,38,Skyrizi,2024-09-25,2024-10-01,False,Approved
+641,81,1,Skyrizi,2024-02-18,2024-02-20,True,Approved
+642,425,38,Humira,2024-11-11,,True,Pending PA
+643,268,29,Humira,2024-05-09,2024-05-22,True,Approved
+644,419,5,Humira,2024-01-05,2024-01-06,True,Approved
+645,235,74,Skyrizi,2024-01-27,2024-02-10,True,Approved
+646,321,21,Skyrizi,2024-06-08,2024-06-10,False,Approved
+647,311,71,Skyrizi,2024-05-28,2024-06-03,False,Approved
+648,301,67,Humira,2024-09-20,2024-10-02,False,Approved
+649,463,47,Stelara,2024-08-17,2024-08-19,True,Approved
+650,474,35,Skyrizi,2024-07-18,2024-07-29,False,Approved
+651,357,68,Stelara,2024-02-19,2024-03-02,True,Approved
+652,213,69,Stelara,2024-03-07,2024-03-09,True,Approved
+653,62,1,Stelara,2024-10-26,2024-11-06,True,Approved
+654,49,68,Humira,2024-02-27,2024-03-07,False,Approved
+655,127,12,Stelara,2024-09-15,2024-09-16,True,Approved
+656,223,60,Skyrizi,2024-11-21,2024-11-26,False,Approved
+657,409,27,Humira,2024-05-09,,False,Pending PA
+658,279,56,Skyrizi,2024-08-02,2024-08-06,True,Approved
+659,408,23,Skyrizi,2024-06-20,2024-06-27,True,Approved
+660,294,25,Humira,2024-09-14,2024-09-23,False,Approved
+661,284,21,Skyrizi,2024-04-11,,False,Pending PA
+662,277,61,Skyrizi,2024-07-27,2024-08-03,False,Approved
+663,438,63,Humira,2024-10-17,2024-10-20,False,Approved
+664,107,52,Skyrizi,2024-10-12,2024-10-13,False,Approved
+665,146,25,Stelara,2024-04-25,2024-05-09,False,Approved
+666,420,55,Skyrizi,2024-09-20,2024-09-22,True,Approved
+667,99,46,Stelara,2024-05-29,2024-06-01,False,Approved
+668,429,32,Skyrizi,2024-10-26,2024-11-04,False,Approved
+669,375,55,Humira,2024-02-05,2024-02-18,False,Approved
+670,73,5,Humira,2024-11-28,2024-12-01,False,Approved
+671,437,36,Skyrizi,2024-10-13,2024-10-22,True,Approved
+672,486,49,Humira,2024-10-29,2024-11-07,True,Approved
+673,122,58,Skyrizi,2024-11-06,2024-11-09,False,Approved
+674,30,39,Humira,2024-07-26,2024-07-29,False,Approved
+675,188,80,Stelara,2024-04-15,,False,Pending PA
+676,364,61,Skyrizi,2024-06-06,2024-06-15,True,Approved
+677,354,9,Stelara,2024-04-30,2024-05-10,True,Approved
+678,288,6,Stelara,2024-02-24,2024-02-28,True,Approved
+679,451,35,Skyrizi,2024-01-12,,True,Pending PA
+680,195,39,Stelara,2024-05-24,2024-05-25,True,Approved
+681,156,22,Skyrizi,2024-05-15,2024-05-28,True,Approved
+682,172,41,Stelara,2024-01-03,2024-01-13,False,Approved
+683,335,5,Skyrizi,2024-05-23,2024-06-03,True,Approved
+684,41,42,Skyrizi,2024-01-30,2024-02-12,True,Approved
+685,63,76,Humira,2024-08-24,2024-09-01,False,Approved
+686,23,80,Skyrizi,2024-10-05,2024-10-09,True,Approved
+687,360,67,Skyrizi,2024-04-24,,False,Pending PA
+688,75,30,Stelara,2024-04-13,2024-04-22,True,Approved
+689,48,57,Skyrizi,2024-04-27,,False,Pending PA
+690,160,73,Humira,2024-01-05,2024-01-17,False,Approved
+691,313,29,Stelara,2024-09-04,2024-09-15,False,Approved
+692,118,37,Stelara,2024-11-16,2024-11-21,False,Approved
+693,100,13,Humira,2024-04-30,2024-05-08,False,Approved
+694,380,32,Stelara,2024-10-12,2024-10-20,True,Approved
+695,417,46,Stelara,2024-05-28,2024-06-02,True,Approved
+696,408,23,Stelara,2024-03-24,2024-03-26,False,Approved
+697,167,45,Stelara,2024-08-18,2024-08-26,False,Approved
+698,290,17,Humira,2024-10-14,2024-10-25,False,Approved
+699,440,66,Humira,2024-06-09,,True,Pending PA
+700,156,6,Stelara,2024-09-28,2024-10-10,False,Approved
+701,421,18,Stelara,2024-02-07,2024-02-21,False,Approved
+702,7,22,Humira,2024-08-13,,False,Pending PA
+703,196,33,Humira,2024-05-21,,False,Pending PA
+704,421,30,Humira,2024-10-18,2024-10-30,True,Approved
+705,56,32,Stelara,2024-05-30,2024-06-03,False,Approved
+706,321,42,Stelara,2024-04-23,2024-04-29,False,Approved
+707,193,78,Skyrizi,2024-08-24,,True,Pending PA
+708,47,10,Humira,2024-03-06,2024-03-07,False,Approved
+709,148,36,Stelara,2024-09-14,2024-09-24,False,Approved
+710,275,34,Humira,2024-09-05,2024-09-19,True,Approved
+711,157,73,Stelara,2024-11-26,2024-11-30,True,Approved
+712,202,28,Humira,2024-11-18,2024-11-21,True,Approved
+713,444,11,Stelara,2024-06-28,2024-07-06,False,Approved
+714,402,78,Skyrizi,2024-07-08,,False,Pending PA
+715,476,39,Skyrizi,2024-06-02,2024-06-05,True,Approved
+716,419,47,Humira,2024-07-14,,True,Pending PA
+717,427,19,Stelara,2024-11-06,2024-11-18,True,Approved
+718,495,15,Stelara,2024-09-18,2024-09-19,False,Approved
+719,479,28,Humira,2024-05-22,2024-05-26,False,Approved
+720,475,24,Stelara,2024-11-11,2024-11-20,True,Approved
+721,126,72,Humira,2024-04-10,2024-04-11,False,Approved
+722,395,9,Stelara,2024-08-31,2024-09-02,True,Approved
+723,305,47,Humira,2024-01-12,,False,Pending PA
+724,369,33,Stelara,2024-08-26,2024-09-02,False,Approved
+725,294,62,Humira,2024-02-18,2024-02-28,False,Approved
+726,64,19,Stelara,2024-02-11,2024-02-22,False,Approved
+727,325,67,Skyrizi,2024-06-14,2024-06-19,True,Approved
+728,392,74,Stelara,2024-03-22,2024-03-29,False,Approved
+729,418,40,Humira,2024-10-17,2024-10-30,False,Approved
+730,176,47,Skyrizi,2024-06-06,2024-06-20,True,Approved
+731,116,65,Stelara,2024-08-03,2024-08-07,False,Approved
+732,440,29,Skyrizi,2024-06-06,2024-06-17,True,Approved
+733,204,50,Stelara,2024-05-13,,True,Pending PA
+734,486,13,Skyrizi,2024-03-07,2024-03-14,False,Approved
+735,321,1,Humira,2024-12-01,2024-12-04,False,Approved
+736,31,34,Stelara,2024-01-07,2024-01-08,True,Approved
+737,388,48,Stelara,2024-01-14,2024-01-27,True,Approved
+738,113,77,Humira,2024-03-13,2024-03-17,True,Approved
+739,365,48,Skyrizi,2024-06-11,2024-06-25,False,Approved
+740,434,49,Humira,2024-03-06,,True,Pending PA
+741,325,64,Humira,2024-05-09,2024-05-22,True,Approved
+742,414,61,Skyrizi,2024-07-24,2024-08-06,True,Approved
+743,376,29,Humira,2024-10-02,2024-10-05,False,Approved
+744,344,39,Stelara,2024-09-12,2024-09-25,True,Approved
+745,443,26,Stelara,2024-09-22,,False,Pending PA
+746,67,17,Stelara,2024-01-25,2024-02-06,False,Approved
+747,75,71,Humira,2024-10-07,,True,Pending PA
+748,45,13,Stelara,2024-09-09,2024-09-21,False,Approved
+749,260,69,Stelara,2024-11-05,2024-11-12,True,Approved
+750,154,26,Stelara,2024-10-15,2024-10-29,False,Approved
+751,155,49,Stelara,2024-06-12,,False,Pending PA
+752,430,67,Stelara,2024-04-04,,True,Pending PA
+753,363,7,Stelara,2024-09-26,,True,Pending PA
+754,448,58,Humira,2024-11-16,,True,Pending PA
+755,475,49,Stelara,2024-04-19,2024-04-20,False,Approved
+756,234,53,Stelara,2024-12-01,2024-12-11,False,Approved
+757,51,65,Skyrizi,2024-11-05,2024-11-14,True,Approved
+758,306,62,Humira,2024-08-25,2024-09-07,True,Approved
+759,262,17,Humira,2024-01-25,2024-02-01,False,Approved
+760,315,43,Humira,2024-05-20,2024-05-21,False,Approved
+761,125,25,Humira,2024-04-26,2024-04-29,False,Approved
+762,399,3,Stelara,2024-01-25,2024-01-29,True,Approved
+763,245,79,Stelara,2024-03-19,2024-03-29,False,Approved
+764,30,29,Skyrizi,2024-03-08,2024-03-18,True,Approved
+765,426,32,Skyrizi,2024-06-21,2024-06-22,False,Approved
+766,485,26,Humira,2024-01-12,2024-01-26,False,Approved
+767,122,16,Skyrizi,2024-10-14,,True,Pending PA
+768,125,25,Skyrizi,2024-05-07,2024-05-18,True,Approved
+769,37,54,Humira,2024-04-05,2024-04-11,True,Approved
+770,170,28,Humira,2024-04-01,2024-04-15,False,Approved
+771,124,73,Skyrizi,2024-05-20,2024-05-23,False,Approved
+772,357,56,Stelara,2024-01-31,,False,Pending PA
+773,35,65,Skyrizi,2024-11-29,2024-12-12,True,Approved
+774,87,80,Skyrizi,2024-01-20,2024-01-27,False,Approved
+775,134,41,Stelara,2024-05-25,,True,Pending PA
+776,196,51,Stelara,2024-11-11,2024-11-12,True,Approved
+777,274,71,Humira,2024-06-08,2024-06-12,True,Approved
+778,201,78,Humira,2024-02-12,,False,Pending PA
+779,369,29,Skyrizi,2024-09-10,2024-09-23,False,Approved
+780,285,19,Stelara,2024-05-09,2024-05-11,True,Approved
+781,77,66,Humira,2024-02-29,,False,Pending PA
+782,59,41,Skyrizi,2024-05-30,2024-06-12,True,Approved
+783,431,45,Stelara,2024-10-13,2024-10-23,True,Approved
+784,126,15,Skyrizi,2024-01-05,,False,Pending PA
+785,500,3,Humira,2024-09-22,2024-09-25,True,Approved
+786,401,11,Humira,2024-05-09,2024-05-11,True,Approved
+787,109,53,Stelara,2024-09-23,2024-10-01,False,Approved
+788,224,46,Skyrizi,2024-06-26,,True,Pending PA
+789,496,30,Stelara,2024-09-09,2024-09-10,True,Approved
+790,278,57,Humira,2024-02-25,,True,Pending PA
+791,68,18,Humira,2024-03-23,,True,Pending PA
+792,69,51,Skyrizi,2024-04-08,2024-04-15,True,Approved
+793,165,48,Skyrizi,2024-05-28,2024-06-06,True,Approved
+794,489,66,Skyrizi,2024-11-24,,True,Pending PA
+795,305,8,Stelara,2024-06-04,2024-06-07,False,Approved
+796,397,22,Skyrizi,2024-07-08,,False,Pending PA
+797,162,6,Skyrizi,2024-09-19,2024-09-24,True,Approved
+798,365,76,Humira,2024-03-20,2024-03-23,True,Approved
+799,342,57,Humira,2024-09-08,2024-09-20,False,Approved
+800,309,36,Skyrizi,2024-04-06,2024-04-09,False,Approved
+801,379,79,Skyrizi,2024-09-16,2024-09-22,False,Approved
+802,343,57,Humira,2024-09-16,2024-09-19,False,Approved
+803,435,49,Skyrizi,2024-04-12,2024-04-23,False,Approved
+804,387,45,Stelara,2024-02-09,2024-02-13,True,Approved
+805,42,66,Stelara,2024-09-29,,False,Pending PA
+806,354,77,Stelara,2024-04-10,2024-04-17,False,Approved
+807,416,45,Skyrizi,2024-11-03,2024-11-13,False,Approved
+808,109,79,Humira,2024-08-08,2024-08-20,True,Approved
+809,51,20,Skyrizi,2024-11-03,2024-11-15,True,Approved
+810,250,64,Skyrizi,2024-05-03,2024-05-05,True,Approved
+811,497,67,Humira,2024-08-18,2024-08-28,True,Approved
+812,341,3,Humira,2024-06-26,2024-07-04,True,Approved
+813,430,54,Humira,2024-03-03,2024-03-08,True,Approved
+814,383,78,Stelara,2024-04-25,2024-05-03,False,Approved
+815,492,64,Skyrizi,2024-07-09,,True,Pending PA
+816,21,40,Humira,2024-03-02,2024-03-15,True,Approved
+817,300,59,Skyrizi,2024-09-12,2024-09-24,False,Approved
+818,139,55,Stelara,2024-01-07,2024-01-18,True,Approved
+819,359,62,Stelara,2024-06-03,,False,Pending PA
+820,324,4,Humira,2024-04-01,2024-04-15,False,Approved
+821,499,60,Humira,2024-01-14,2024-01-27,True,Approved
+822,385,75,Skyrizi,2024-08-16,2024-08-25,False,Approved
+823,92,30,Humira,2024-03-26,,False,Pending PA
+824,447,2,Skyrizi,2024-05-12,2024-05-19,False,Approved
+825,280,62,Humira,2024-07-01,2024-07-10,False,Approved
+826,125,49,Skyrizi,2024-03-02,2024-03-05,True,Approved
+827,483,9,Skyrizi,2024-08-06,2024-08-08,False,Approved
+828,397,31,Skyrizi,2024-09-02,2024-09-14,True,Approved
+829,111,61,Skyrizi,2024-08-17,2024-08-19,False,Approved
+830,354,79,Stelara,2024-03-19,,False,Pending PA
+831,139,48,Skyrizi,2024-05-28,2024-06-09,False,Approved
+832,484,25,Humira,2024-05-17,2024-05-28,True,Approved
+833,435,36,Stelara,2024-11-09,2024-11-10,True,Approved
+834,273,8,Stelara,2024-03-05,2024-03-18,True,Approved
+835,99,73,Skyrizi,2024-01-13,2024-01-22,False,Approved
+836,252,58,Stelara,2024-07-31,2024-08-14,False,Approved
+837,338,45,Skyrizi,2024-08-29,2024-09-09,False,Approved
+838,104,62,Humira,2024-07-31,2024-08-12,False,Approved
+839,214,39,Skyrizi,2024-06-29,2024-07-11,True,Approved
+840,249,58,Stelara,2024-06-21,,False,Pending PA
+841,152,64,Humira,2024-06-08,2024-06-14,True,Approved
+842,250,44,Skyrizi,2024-06-12,,False,Pending PA
+843,275,29,Humira,2024-07-06,,True,Pending PA
+844,165,59,Humira,2024-07-09,2024-07-23,True,Approved
+845,487,71,Stelara,2024-11-03,2024-11-11,False,Approved
+846,341,9,Humira,2024-09-12,2024-09-14,False,Approved
+847,8,6,Stelara,2024-07-01,2024-07-14,True,Approved
+848,284,29,Humira,2024-04-26,2024-05-05,False,Approved
+849,5,58,Skyrizi,2024-10-08,,False,Pending PA
+850,145,17,Humira,2024-07-14,2024-07-23,True,Approved
+851,101,16,Skyrizi,2024-02-03,2024-02-17,True,Approved
+852,164,3,Skyrizi,2024-02-21,2024-02-27,True,Approved
+853,374,21,Humira,2024-04-21,2024-05-02,True,Approved
+854,147,64,Skyrizi,2024-09-08,2024-09-11,False,Approved
+855,64,36,Humira,2024-03-22,2024-03-26,True,Approved
+856,91,62,Humira,2024-08-19,,True,Pending PA
+857,117,42,Skyrizi,2024-08-14,2024-08-15,True,Approved
+858,354,76,Skyrizi,2024-08-20,2024-08-24,False,Approved
+859,267,42,Stelara,2024-08-08,2024-08-12,True,Approved
+860,310,61,Skyrizi,2024-02-11,,False,Pending PA
+861,173,13,Stelara,2024-01-21,,True,Pending PA
+862,47,11,Skyrizi,2024-02-11,2024-02-15,True,Approved
+863,140,54,Humira,2024-04-22,2024-05-05,False,Approved
+864,246,16,Skyrizi,2024-04-14,2024-04-27,True,Approved
+865,149,8,Humira,2024-07-10,2024-07-24,True,Approved
+866,246,59,Humira,2024-01-17,2024-01-21,False,Approved
+867,395,57,Humira,2024-04-29,,True,Pending PA
+868,487,40,Stelara,2024-05-08,2024-05-13,True,Approved
+869,476,59,Skyrizi,2024-05-09,2024-05-11,True,Approved
+870,5,2,Humira,2024-02-29,,True,Pending PA
+871,465,76,Humira,2024-02-17,2024-02-21,False,Approved
+872,184,10,Stelara,2024-01-29,2024-02-06,True,Approved
+873,20,44,Skyrizi,2024-04-06,2024-04-19,False,Approved
+874,425,11,Skyrizi,2024-01-10,2024-01-20,True,Approved
+875,46,79,Stelara,2024-08-29,2024-09-05,False,Approved
+876,12,80,Stelara,2024-11-09,2024-11-18,True,Approved
+877,70,2,Skyrizi,2024-08-19,2024-08-26,False,Approved
+878,17,50,Stelara,2024-10-03,2024-10-04,True,Approved
+879,371,12,Skyrizi,2024-10-10,2024-10-24,False,Approved
+880,147,23,Skyrizi,2024-07-21,2024-07-28,False,Approved
+881,154,18,Humira,2024-09-03,,True,Pending PA
+882,304,62,Humira,2024-10-16,2024-10-25,False,Approved
+883,108,62,Skyrizi,2024-09-20,2024-09-28,True,Approved
+884,236,38,Skyrizi,2024-08-01,,True,Pending PA
+885,308,67,Skyrizi,2024-07-18,2024-07-25,True,Approved
+886,352,38,Skyrizi,2024-03-19,,True,Pending PA
+887,70,67,Skyrizi,2024-06-21,2024-06-30,True,Approved
+888,183,61,Skyrizi,2024-03-09,2024-03-14,False,Approved
+889,250,1,Stelara,2024-03-27,2024-03-28,True,Approved
+890,228,45,Skyrizi,2024-04-10,,True,Pending PA
+891,102,28,Stelara,2024-01-08,2024-01-20,True,Approved
+892,75,21,Stelara,2024-11-28,2024-12-09,True,Approved
+893,417,13,Skyrizi,2024-07-18,2024-07-22,True,Approved
+894,446,27,Skyrizi,2024-03-27,2024-03-31,True,Approved
+895,216,7,Stelara,2024-02-12,2024-02-26,False,Approved
+896,407,22,Stelara,2024-04-18,2024-04-21,False,Approved
+897,399,74,Skyrizi,2024-05-31,2024-06-04,True,Approved
+898,411,53,Skyrizi,2024-01-17,2024-01-20,False,Approved
+899,203,79,Stelara,2024-05-12,2024-05-19,True,Approved
+900,192,79,Stelara,2024-05-27,2024-06-06,True,Approved
+901,249,4,Stelara,2024-10-03,2024-10-05,True,Approved
+902,499,23,Humira,2024-08-19,2024-08-27,True,Approved
+903,242,70,Stelara,2024-11-09,2024-11-12,True,Approved
+904,465,76,Humira,2024-08-15,2024-08-27,False,Approved
+905,179,33,Skyrizi,2024-05-18,2024-05-20,False,Approved
+906,437,28,Skyrizi,2024-07-29,2024-08-07,False,Approved
+907,462,8,Stelara,2024-01-28,2024-01-29,False,Approved
+908,219,1,Skyrizi,2024-02-20,2024-03-02,True,Approved
+909,82,37,Skyrizi,2024-09-17,,False,Pending PA
+910,92,63,Skyrizi,2024-09-17,2024-09-18,True,Approved
+911,435,22,Skyrizi,2024-01-08,2024-01-10,False,Approved
+912,175,70,Humira,2024-11-15,,False,Pending PA
+913,239,21,Humira,2024-05-17,2024-05-20,False,Approved
+914,260,35,Stelara,2024-02-07,2024-02-19,False,Approved
+915,391,79,Stelara,2024-04-20,2024-04-29,True,Approved
+916,365,5,Stelara,2024-08-07,2024-08-11,False,Approved
+917,163,60,Skyrizi,2024-08-10,2024-08-23,False,Approved
+918,48,46,Skyrizi,2024-05-15,,True,Pending PA
+919,329,50,Humira,2024-09-12,2024-09-26,True,Approved
+920,328,48,Humira,2024-11-24,2024-11-28,False,Approved
+921,116,6,Stelara,2024-02-18,2024-02-25,True,Approved
+922,429,56,Humira,2024-10-18,2024-10-19,True,Approved
+923,337,59,Humira,2024-11-19,,True,Pending PA
+924,337,29,Humira,2024-03-18,2024-03-26,False,Approved
+925,369,71,Humira,2024-04-14,2024-04-18,True,Approved
+926,225,77,Humira,2024-06-17,2024-06-22,False,Approved
+927,352,18,Stelara,2024-08-04,2024-08-15,False,Approved
+928,328,2,Stelara,2024-04-28,2024-05-05,False,Approved
+929,147,8,Humira,2024-07-08,2024-07-09,False,Approved
+930,63,75,Stelara,2024-09-11,,True,Pending PA
+931,294,54,Skyrizi,2024-09-22,2024-09-26,False,Approved
+932,323,38,Humira,2024-05-28,2024-06-02,True,Approved
+933,443,48,Skyrizi,2024-06-12,2024-06-25,False,Approved
+934,325,27,Stelara,2024-05-19,2024-05-23,True,Approved
+935,13,20,Stelara,2024-09-14,2024-09-18,False,Approved
+936,431,12,Skyrizi,2024-09-25,2024-10-05,True,Approved
+937,494,43,Stelara,2024-06-29,2024-07-06,False,Approved
+938,189,61,Humira,2024-06-08,2024-06-17,False,Approved
+939,287,31,Skyrizi,2024-10-14,2024-10-19,True,Approved
+940,208,61,Humira,2024-10-14,2024-10-19,False,Approved
+941,114,74,Skyrizi,2024-08-13,2024-08-18,False,Approved
+942,480,67,Stelara,2024-01-11,2024-01-21,False,Approved
+943,22,35,Skyrizi,2024-01-10,2024-01-22,True,Approved
+944,349,15,Skyrizi,2024-09-27,,False,Pending PA
+945,214,16,Humira,2024-09-29,2024-10-10,False,Approved
+946,171,13,Stelara,2024-07-01,2024-07-11,True,Approved
+947,323,35,Humira,2024-06-01,2024-06-10,True,Approved
+948,54,75,Stelara,2024-11-10,2024-11-18,True,Approved
+949,394,59,Humira,2024-11-29,2024-12-02,True,Approved
+950,298,21,Skyrizi,2024-05-03,2024-05-07,True,Approved
+951,320,54,Humira,2024-04-23,2024-04-27,False,Approved
+952,126,75,Stelara,2024-10-04,2024-10-08,False,Approved
+953,277,30,Stelara,2024-07-31,2024-08-02,False,Approved
+954,464,48,Skyrizi,2024-06-20,2024-06-27,True,Approved
+955,204,35,Stelara,2024-10-14,2024-10-15,False,Approved
+956,194,38,Humira,2024-06-22,,True,Pending PA
+957,169,31,Skyrizi,2024-04-22,2024-05-06,True,Approved
+958,152,78,Stelara,2024-05-01,2024-05-12,False,Approved
+959,35,24,Stelara,2024-02-01,2024-02-08,True,Approved
+960,184,49,Humira,2024-08-09,2024-08-16,True,Approved
+961,286,32,Humira,2024-04-28,2024-05-12,False,Approved
+962,57,55,Skyrizi,2024-02-08,2024-02-17,True,Approved
+963,222,79,Stelara,2024-09-24,2024-10-07,True,Approved
+964,303,58,Humira,2024-08-20,2024-08-29,False,Approved
+965,163,3,Skyrizi,2024-01-18,2024-01-25,True,Approved
+966,19,80,Stelara,2024-05-28,2024-05-30,True,Approved
+967,370,69,Stelara,2024-05-28,2024-06-02,False,Approved
+968,264,10,Skyrizi,2024-05-05,2024-05-13,False,Approved
+969,282,25,Skyrizi,2024-10-28,2024-11-07,False,Approved
+970,113,68,Humira,2024-08-25,2024-09-03,False,Approved
+971,488,61,Stelara,2024-05-14,2024-05-22,True,Approved
+972,327,29,Stelara,2024-05-30,,True,Pending PA
+973,30,19,Stelara,2024-08-23,2024-09-04,False,Approved
+974,135,43,Skyrizi,2024-08-11,2024-08-15,True,Approved
+975,67,66,Humira,2024-07-21,2024-07-26,True,Approved
+976,65,74,Stelara,2024-09-12,2024-09-23,False,Approved
+977,292,61,Skyrizi,2024-03-26,2024-03-28,False,Approved
+978,25,43,Stelara,2024-05-29,2024-06-06,True,Approved
+979,37,25,Humira,2024-08-22,,False,Pending PA
+980,1,20,Stelara,2024-01-22,2024-02-03,False,Approved
+981,399,48,Humira,2024-10-11,2024-10-12,False,Approved
+982,37,24,Humira,2024-09-25,2024-10-08,True,Approved
+983,141,11,Stelara,2024-09-14,2024-09-17,False,Approved
+984,232,55,Stelara,2024-01-29,2024-01-30,True,Approved
+985,136,28,Humira,2024-07-31,2024-08-09,True,Approved
+986,389,69,Skyrizi,2024-10-09,2024-10-11,True,Approved
+987,188,63,Humira,2024-02-19,2024-02-24,False,Approved
+988,128,59,Stelara,2024-04-04,2024-04-06,False,Approved
+989,201,5,Stelara,2024-03-28,2024-04-03,False,Approved
+990,127,51,Skyrizi,2024-02-13,2024-02-16,False,Approved
+991,257,21,Humira,2024-10-04,2024-10-09,False,Approved
+992,164,12,Humira,2024-06-19,2024-07-02,True,Approved
+993,35,50,Humira,2024-07-07,2024-07-12,True,Approved
+994,194,4,Stelara,2024-07-02,2024-07-03,True,Approved
+995,191,42,Humira,2024-01-03,2024-01-12,False,Approved
+996,104,38,Skyrizi,2024-07-09,2024-07-18,True,Approved
+997,23,25,Stelara,2024-04-27,2024-05-04,True,Approved
+998,265,14,Stelara,2024-01-19,2024-01-24,False,Approved
+999,290,75,Humira,2024-01-23,2024-01-25,False,Approved
+1000,430,32,Skyrizi,2024-01-30,2024-02-07,True,Approved
+1001,462,11,Stelara,2024-10-21,2024-10-22,True,Approved
+1002,384,61,Stelara,2024-04-17,2024-04-18,False,Approved
+1003,260,18,Humira,2024-10-07,2024-10-12,False,Approved
+1004,414,27,Humira,2024-05-07,,False,Pending PA
+1005,479,55,Skyrizi,2024-08-16,2024-08-30,False,Approved
+1006,358,54,Humira,2024-04-20,2024-04-29,True,Approved
+1007,75,75,Skyrizi,2024-05-15,2024-05-19,True,Approved
+1008,355,21,Stelara,2024-07-04,2024-07-16,False,Approved
+1009,72,44,Skyrizi,2024-05-23,2024-05-31,True,Approved
+1010,259,5,Skyrizi,2024-03-12,2024-03-15,True,Approved
+1011,398,41,Skyrizi,2024-05-08,2024-05-19,False,Approved
+1012,188,59,Stelara,2024-09-17,2024-09-30,True,Approved
+1013,461,54,Humira,2024-01-03,,True,Pending PA
+1014,173,74,Stelara,2024-04-13,2024-04-20,True,Approved
+1015,480,22,Humira,2024-08-11,2024-08-14,False,Approved
+1016,290,65,Skyrizi,2024-11-15,2024-11-27,False,Approved
+1017,45,64,Skyrizi,2024-01-10,2024-01-12,True,Approved
+1018,61,71,Skyrizi,2024-10-28,2024-11-06,False,Approved
+1019,83,4,Skyrizi,2024-08-18,2024-08-29,False,Approved
+1020,123,65,Skyrizi,2024-08-06,,False,Pending PA
+1021,358,15,Humira,2024-03-06,2024-03-18,True,Approved
+1022,16,76,Humira,2024-04-21,2024-04-26,True,Approved
+1023,66,22,Skyrizi,2024-01-13,2024-01-16,False,Approved
+1024,424,47,Stelara,2024-03-26,2024-03-29,True,Approved
+1025,145,46,Stelara,2024-08-21,2024-08-28,True,Approved
+1026,375,14,Skyrizi,2024-03-30,2024-03-31,True,Approved
+1027,162,50,Humira,2024-11-09,2024-11-17,True,Approved
+1028,234,20,Stelara,2024-02-23,2024-03-04,True,Approved
+1029,380,50,Stelara,2024-01-12,2024-01-24,False,Approved
+1030,144,33,Stelara,2024-07-27,2024-08-07,True,Approved
+1031,358,59,Skyrizi,2024-01-14,,True,Pending PA
+1032,188,43,Stelara,2024-04-30,2024-05-13,True,Approved
+1033,322,79,Stelara,2024-01-20,,False,Pending PA
+1034,450,12,Stelara,2024-03-15,2024-03-18,False,Approved
+1035,474,40,Stelara,2024-08-30,2024-09-04,False,Approved
+1036,13,20,Humira,2024-08-10,2024-08-15,True,Approved
+1037,184,38,Skyrizi,2024-03-10,2024-03-21,False,Approved
+1038,111,3,Skyrizi,2024-11-07,2024-11-12,False,Approved
+1039,415,28,Humira,2024-07-29,2024-08-11,False,Approved
+1040,290,56,Humira,2024-04-10,2024-04-19,False,Approved
+1041,295,13,Skyrizi,2024-07-04,2024-07-09,True,Approved
+1042,451,77,Stelara,2024-05-11,2024-05-13,False,Approved
+1043,392,66,Stelara,2024-04-20,2024-05-03,False,Approved
+1044,215,37,Skyrizi,2024-05-11,2024-05-12,True,Approved
+1045,462,49,Stelara,2024-01-20,2024-02-02,True,Approved
+1046,120,66,Humira,2024-01-24,2024-02-01,False,Approved
+1047,382,36,Stelara,2024-08-14,2024-08-24,True,Approved
+1048,55,54,Stelara,2024-06-02,2024-06-06,False,Approved
+1049,27,26,Stelara,2024-10-19,2024-10-22,True,Approved
+1050,118,75,Skyrizi,2024-08-17,2024-08-19,True,Approved
+1051,221,72,Humira,2024-11-05,2024-11-13,False,Approved
+1052,231,40,Stelara,2024-07-20,2024-07-23,True,Approved
+1053,53,43,Skyrizi,2024-02-07,2024-02-14,False,Approved
+1054,295,22,Stelara,2024-09-16,2024-09-20,True,Approved
+1055,321,20,Humira,2024-07-06,2024-07-17,False,Approved
+1056,401,8,Stelara,2024-02-26,,True,Pending PA
+1057,233,29,Humira,2024-01-20,,True,Pending PA
+1058,158,40,Stelara,2024-09-29,2024-10-08,True,Approved
+1059,437,30,Humira,2024-04-28,2024-05-04,True,Approved
+1060,269,55,Stelara,2024-03-11,,True,Pending PA
+1061,21,16,Humira,2024-01-04,2024-01-16,False,Approved
+1062,403,46,Stelara,2024-08-08,2024-08-10,True,Approved
+1063,53,62,Stelara,2024-01-14,2024-01-19,False,Approved
+1064,275,7,Skyrizi,2024-01-03,2024-01-15,False,Approved
+1065,313,80,Skyrizi,2024-08-03,2024-08-16,False,Approved
+1066,281,45,Humira,2024-08-16,2024-08-21,True,Approved
+1067,214,59,Stelara,2024-12-01,2024-12-12,False,Approved
+1068,31,56,Humira,2024-07-04,,True,Pending PA
+1069,337,48,Skyrizi,2024-02-24,2024-03-05,False,Approved
+1070,183,27,Humira,2024-09-10,2024-09-13,False,Approved
+1071,23,53,Humira,2024-01-24,2024-02-01,False,Approved
+1072,32,73,Skyrizi,2024-06-10,2024-06-21,False,Approved
+1073,446,35,Stelara,2024-06-06,2024-06-12,False,Approved
+1074,74,51,Humira,2024-03-22,2024-04-01,True,Approved
+1075,10,37,Skyrizi,2024-06-07,2024-06-14,False,Approved
+1076,484,57,Stelara,2024-07-06,2024-07-20,False,Approved
+1077,456,8,Skyrizi,2024-02-29,2024-03-02,True,Approved
+1078,54,79,Humira,2024-10-31,2024-11-11,True,Approved
+1079,52,20,Stelara,2024-11-14,,True,Pending PA
+1080,148,53,Stelara,2024-07-29,2024-08-09,False,Approved
+1081,160,12,Skyrizi,2024-05-31,,False,Pending PA
+1082,370,49,Skyrizi,2024-04-18,2024-05-01,False,Approved
+1083,14,17,Skyrizi,2024-03-16,2024-03-19,False,Approved
+1084,178,64,Stelara,2024-01-30,2024-02-04,False,Approved
+1085,412,42,Stelara,2024-11-09,,False,Pending PA
+1086,366,29,Humira,2024-04-26,2024-05-04,True,Approved
+1087,500,19,Stelara,2024-07-10,2024-07-16,True,Approved
+1088,53,11,Humira,2024-01-19,2024-01-26,False,Approved
+1089,408,50,Skyrizi,2024-06-21,2024-06-29,False,Approved
+1090,335,71,Skyrizi,2024-08-15,2024-08-23,False,Approved
+1091,22,58,Stelara,2024-07-01,2024-07-11,False,Approved
+1092,30,34,Skyrizi,2024-04-22,2024-05-01,False,Approved
+1093,191,20,Skyrizi,2024-07-01,2024-07-05,True,Approved
+1094,260,50,Stelara,2024-05-25,2024-05-30,True,Approved
+1095,205,10,Humira,2024-11-14,2024-11-24,False,Approved
+1096,59,32,Stelara,2024-04-25,2024-04-29,True,Approved
+1097,471,52,Humira,2024-04-22,2024-05-02,False,Approved
+1098,264,15,Stelara,2024-09-07,2024-09-16,False,Approved
+1099,466,3,Stelara,2024-09-07,2024-09-13,False,Approved
+1100,12,37,Skyrizi,2024-10-29,2024-10-30,True,Approved
+1101,119,40,Stelara,2024-11-08,2024-11-09,True,Approved
+1102,415,72,Stelara,2024-04-27,2024-04-28,False,Approved
+1103,462,40,Humira,2024-10-27,2024-11-09,True,Approved
+1104,290,56,Skyrizi,2024-06-09,2024-06-12,True,Approved
+1105,338,23,Humira,2024-07-16,2024-07-29,False,Approved
+1106,248,11,Humira,2024-09-16,,True,Pending PA
+1107,354,64,Skyrizi,2024-05-27,2024-05-28,True,Approved
+1108,127,8,Skyrizi,2024-08-27,2024-09-04,False,Approved
+1109,75,56,Skyrizi,2024-02-16,,False,Pending PA
+1110,361,60,Stelara,2024-07-16,2024-07-19,True,Approved
+1111,204,10,Skyrizi,2024-02-16,,False,Pending PA
+1112,49,39,Skyrizi,2024-03-18,2024-03-26,True,Approved
+1113,79,28,Skyrizi,2024-05-03,2024-05-10,False,Approved
+1114,441,49,Humira,2024-03-15,2024-03-20,False,Approved
+1115,479,36,Humira,2024-05-16,,False,Pending PA
+1116,241,13,Stelara,2024-03-30,2024-04-07,False,Approved
+1117,349,36,Humira,2024-11-20,2024-11-24,True,Approved
+1118,154,26,Stelara,2024-03-01,,False,Pending PA
+1119,274,4,Humira,2024-05-17,2024-05-25,False,Approved
+1120,96,64,Skyrizi,2024-02-19,2024-02-24,False,Approved
+1121,214,38,Humira,2024-09-15,2024-09-27,True,Approved
+1122,294,22,Stelara,2024-04-16,2024-04-20,True,Approved
+1123,209,2,Humira,2024-04-22,2024-04-29,False,Approved
+1124,343,31,Skyrizi,2024-09-10,2024-09-24,False,Approved
+1125,88,11,Stelara,2024-04-27,2024-04-28,False,Approved
+1126,306,46,Skyrizi,2024-07-16,2024-07-21,False,Approved
+1127,264,62,Skyrizi,2024-02-20,2024-02-24,False,Approved
+1128,425,69,Stelara,2024-09-01,2024-09-13,False,Approved
+1129,390,64,Skyrizi,2024-02-04,2024-02-11,True,Approved
+1130,325,10,Skyrizi,2024-10-28,2024-11-09,False,Approved
+1131,428,40,Humira,2024-03-09,2024-03-21,False,Approved
+1132,377,24,Skyrizi,2024-11-15,2024-11-19,False,Approved
+1133,320,44,Skyrizi,2024-02-18,2024-02-29,False,Approved
+1134,157,60,Skyrizi,2024-03-14,2024-03-28,False,Approved
+1135,156,62,Skyrizi,2024-07-10,2024-07-12,False,Approved
+1136,139,17,Stelara,2024-09-17,2024-09-19,True,Approved
+1137,121,65,Humira,2024-03-10,2024-03-12,True,Approved
+1138,65,57,Skyrizi,2024-03-30,2024-04-12,True,Approved
+1139,107,55,Skyrizi,2024-09-16,2024-09-24,True,Approved
+1140,147,53,Stelara,2024-05-05,,True,Pending PA
+1141,137,56,Skyrizi,2024-08-18,2024-08-30,True,Approved
+1142,411,9,Stelara,2024-10-21,,False,Pending PA
+1143,162,22,Humira,2024-05-08,2024-05-15,False,Approved
+1144,428,13,Humira,2024-10-06,2024-10-13,False,Approved
+1145,452,48,Skyrizi,2024-11-08,2024-11-15,False,Approved
+1146,100,18,Skyrizi,2024-04-09,2024-04-13,False,Approved
+1147,338,76,Skyrizi,2024-11-21,,False,Pending PA
+1148,399,40,Stelara,2024-10-23,2024-11-02,True,Approved
+1149,307,17,Skyrizi,2024-06-30,2024-07-14,False,Approved
+1150,141,15,Skyrizi,2024-06-22,2024-06-27,True,Approved
+1151,83,15,Humira,2024-11-11,2024-11-24,True,Approved
+1152,177,79,Skyrizi,2024-07-06,2024-07-13,False,Approved
+1153,198,63,Humira,2024-02-26,2024-03-04,False,Approved
+1154,112,39,Skyrizi,2024-01-31,2024-02-13,False,Approved
+1155,56,13,Humira,2024-03-24,2024-04-07,False,Approved
+1156,460,32,Skyrizi,2024-05-31,,False,Pending PA
+1157,179,9,Humira,2024-02-05,2024-02-07,False,Approved
+1158,421,40,Stelara,2024-07-31,2024-08-08,False,Approved
+1159,401,20,Humira,2024-04-15,2024-04-29,True,Approved
+1160,186,77,Humira,2024-08-07,2024-08-16,False,Approved
+1161,471,80,Humira,2024-06-11,2024-06-22,False,Approved
+1162,218,73,Skyrizi,2024-08-07,2024-08-11,True,Approved
+1163,413,63,Skyrizi,2024-09-26,2024-10-04,False,Approved
+1164,417,76,Skyrizi,2024-04-29,,False,Pending PA
+1165,316,44,Stelara,2024-12-01,2024-12-02,True,Approved
+1166,475,38,Stelara,2024-06-30,2024-07-08,False,Approved
+1167,217,60,Humira,2024-04-15,2024-04-23,False,Approved
+1168,120,71,Stelara,2024-08-04,2024-08-12,False,Approved
+1169,439,48,Humira,2024-07-23,2024-07-25,False,Approved
+1170,394,18,Humira,2024-03-10,2024-03-15,False,Approved
+1171,175,16,Humira,2024-02-13,2024-02-27,False,Approved
+1172,23,55,Stelara,2024-11-24,2024-11-28,True,Approved
+1173,213,39,Skyrizi,2024-10-27,2024-11-02,False,Approved
+1174,405,68,Stelara,2024-08-15,2024-08-21,False,Approved
+1175,235,59,Humira,2024-07-02,2024-07-09,True,Approved
+1176,13,62,Humira,2024-04-16,2024-04-24,True,Approved
+1177,101,13,Stelara,2024-03-24,2024-03-26,False,Approved
+1178,417,6,Humira,2024-09-06,2024-09-15,True,Approved
+1179,24,77,Humira,2024-01-21,2024-01-24,False,Approved
+1180,364,60,Stelara,2024-07-14,2024-07-26,False,Approved
+1181,11,14,Stelara,2024-06-26,2024-06-28,True,Approved
+1182,273,54,Stelara,2024-01-07,,False,Pending PA
+1183,452,4,Humira,2024-03-10,2024-03-23,False,Approved
+1184,431,39,Humira,2024-05-06,2024-05-07,True,Approved
+1185,281,72,Skyrizi,2024-06-08,2024-06-22,True,Approved
+1186,94,25,Skyrizi,2024-09-04,2024-09-11,True,Approved
+1187,201,77,Stelara,2024-07-21,2024-07-22,True,Approved
+1188,21,32,Skyrizi,2024-05-27,2024-05-29,False,Approved
+1189,340,59,Humira,2024-05-22,2024-06-02,True,Approved
+1190,467,63,Skyrizi,2024-07-17,2024-07-19,True,Approved
+1191,211,38,Humira,2024-06-02,2024-06-16,True,Approved
+1192,140,53,Stelara,2024-05-21,2024-05-30,True,Approved
+1193,293,67,Stelara,2024-11-08,2024-11-17,True,Approved
+1194,298,28,Humira,2024-06-13,2024-06-22,False,Approved
+1195,401,3,Skyrizi,2024-11-09,,True,Pending PA
+1196,101,80,Stelara,2024-01-21,2024-02-04,False,Approved
+1197,304,22,Stelara,2024-03-22,2024-04-03,True,Approved
+1198,359,38,Skyrizi,2024-03-09,2024-03-20,True,Approved
+1199,28,72,Skyrizi,2024-05-10,2024-05-11,True,Approved
+1200,41,72,Humira,2024-03-27,,True,Pending PA

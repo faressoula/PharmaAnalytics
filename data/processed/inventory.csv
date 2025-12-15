@@ -1,0 +1,4 @@
+medication_name,stock_level,reorder_point,expiration_date
+Humira,320,100,2025-01-29
+Stelara,210,80,2025-04-18
+Skyrizi,150,60,2025-07-08
